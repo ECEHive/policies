@@ -323,7 +323,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 ** *4.2.7.4.* PI should remove any finished prints as soon as possible to keep queues moving.
 ** *4.2.7.5.* Resin printed models must be washed in IPA baths upon completion of printing, then moved to the curing stations and fulled cured before being moved to the print pick-up bins.
 ** *4.2.7.6.* PIs should check the resin curing stations at least once per shift for any completed resin prints.
-** *4.2.7.7.* If a printer malfunctions or gives an error, PIs should attempt to fix it or contact and MPI or Staff for assistance.
+** *4.2.7.7.* If a printer malfunctions or gives an error, PIs should contact and MPI or Staff for assistance. Removal of printer hardware (extruder heads, tanks, screws) is prohibited any anyone outside of 3D MPIs or staff.
 ** *4.2.7.9.* PIs specifically in the semi-clean room should assist or find another PI to assist any PCB end users who need help.
 * *4.2.8.* Machine Shop PI Responsibilities
 ** *4.2.8.1.* Homework should never be out while end users are in the machine shop. PIs are responsible for monitoring a potentially very dangerous space and must remain attentive to everything that is going on.
