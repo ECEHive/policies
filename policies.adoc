@@ -317,20 +317,14 @@ We aim to help students gain hands on skills and technical knowledge by providin
 ** *4.2.6.5.* PIs should ensure the work bench in the Stratasys room is clear of any trash or debris and clean as necessary.
 ** *4.2.6.6.* At least once per shift, PIs should check the laser cutting room trash can to see if it needs to be emptied and empty it if necessary.
 * *4.2.7.* 3D Printing PI Responsibilities
-** *4.2.7.1.* PIs may have their homework out if the only end users in the semi-clean room are doing PCB fabrication but should not have it out when end users are present for 3D printing help.
+** *4.2.7.1.* PIs may have their homework out if the only end users in the semi-clean room are doing PCB fabrication but should not have it out when end users are present for 3D printing help. In the circular room, PIs may have their homework out if no end users are requesting help.
 ** *4.2.7.2.* PIs should greet all incoming end users and ask if they need help with anything.
-** *4.2.7.3.* PIs should follow all print queuing guidelines communicated in training and posted throughout the semi-clean room.
-** *4.2.7.4.* PIs should remove any finished prints, keeping in mind the following:
-*** This includes processing any resin prints that have finished. PIs should not start processing resin prints if they cannot finish the wash process within their shift or directly pass it off to the next PI on shift. It is acceptable to leave a finished print in the printer in this case if PIs have no time to process it. These policies are intended to prevent the Isopropyl Alcohol (IPA) washes from being opened for extended periods.
-*** This includes checking the out-of-view printers (Stratasys and Formlabs 3L printers) a few times per shift. Any finished prints should be removed as soon as possible to keep queues moving.
-** *4.2.7.5.* If a printer malfunctions or gives an error, PIs should attempt to fix it or contact and MPI or Staff for assistance.
-** *4.2.7.6.* PIs should check the NaOH bath at least once per shift for any finished prints.
-** *4.2.7.7.* PIs should check the drying rack at least once per shift for any completely dried prints.
-** *4.2.7.8.* PIs should check the resin curing oven at least once per shift for any completed resin prints.
-** *4.2.7.9.* PIs should ensure all printers are clear of loose filament debris (especially under the print beds) and should vacuum and sweep them as necessary.
-** *4.2.7.10.* PIs should ensure the floors of the semi-clean room and Stratasys room are always clean, especially keeping an eye out for loose filament pieces, paper towels, etc. They should sweep and vacuum as necessary.
-** *4.2.7.11.* At least once per shift, PIs should check the trash cans in the semi-clean room and Stratasys room to see if they need to be emptied and if so empty them.
-** *4.2.7.12.* PIs should assist or find another PI to assist any PCB end users who need help.
+** *4.2.7.3.* PIs should follow all print queuing guidelines communicated in training and posted throughout the circular or semi-clean room.
+** *4.2.7.4.* PI should remove any finished prints as soon as possible to keep queues moving.
+** *4.2.7.5.* Resin printed models must be washed in IPA baths upon completion of printing, then moved to the curing stations and fulled cured before being moved to the print pick-up bins.
+** *4.2.7.6.* PIs should check the resin curing stations at least once per shift for any completed resin prints.
+** *4.2.7.7.* If a printer malfunctions or gives an error, PIs should attempt to fix it or contact and MPI or Staff for assistance.
+** *4.2.7.9.* PIs specifically in the semi-clean room should assist or find another PI to assist any PCB end users who need help.
 * *4.2.8.* Machine Shop PI Responsibilities
 ** *4.2.8.1.* Homework should never be out while end users are in the machine shop. PIs are responsible for monitoring a potentially very dangerous space and must remain attentive to everything that is going on.
 ** *4.2.8.2.* PIs should greet all incoming end users and ask if they need help with anything.
@@ -351,7 +345,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 * *4.3.2.* PIs are strictly prohibited from letting non-PIs into the space after hours without actively supervising them while being in the space. Another PI being in the space does not absolve one from violating this policy. PIs are allowed to have any number of guests in the space after hours so long as they are always under that PIs supervision. These guests must sign into SUMS. Supervision means being on the same floor as all guests and having a line of sight to them at all times. Guests are prohibited from restricted areas without the supervision of a PI (see section 2.6.1.). PIs are also responsible for ensuring their guests follow all policies of end users. PIs are ultimately responsible for the conduct of their guests, including any policy violations. Taking a short bathroom or water break is allowed without violating this policy, so long as the PI does not leave the building and so long as guests are not actively using any machinery during the break. Violation of this policy will result in a Level 3 infraction and disciplinary action up to being terminated as a PI.
 * *4.3.3.* PIs may not have other student organizations as their guests.
 * *4.3.4.* PIs may be allowed to take certain items outside of the space with Staff permission. Please check with Staff for our current PI checkout policies.
-* *4.3.5.* PIs are allowed to queue 3D prints at the front of the queues after hours so long as all of the following are true: an active print is not being stopped, the print will finish before The Hive opens, another PIs print is not being passed in the queue, all time and material limits are being followed, all proper print procedures are being followed.
+* *4.3.5.* PIs are allowed to prioritize their 3D prints to the front of the queues after hours so long as all of the following are true: an active print is not being stopped, the print will finish before The Hive opens, another PIs print is not being passed in the queue, all time and material limits are being followed, all proper print procedures are being followed.
 * *4.3.6.* PIs are allowed to exceed the time limit for personal laser cuts after hours, so long as they are not preventing another PI from using a laser.
 * *4.3.7.* Executive Board meetings are open to any active PIs who wish to attend, space permitting. However, PIs must not be disruptive and should be mindful about consistently entering or leaving the meeting space. Meeting minutes are published on the SharePoint.
 
