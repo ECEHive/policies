@@ -279,7 +279,6 @@ We aim to help students gain hands on skills and technical knowledge by providin
 ** *4.2.1.2.* The appropriate armband must be worn while on shift. PIs have an orange armband, and MPIs have a pink armband.
 ** *4.2.1.3.* Homework and personal device usage are permitted during your shift, provided there are no active end-users in the space being monitored. Exceptions to this policy are listed for specific technical areas below.
 ** *4.2.1.4.* PIs are expected to be on time for their shift. Clocking in after the start of the shift will be considered late, and any missed time will count against a PI's weekly hours. This is explained more in the "Shift Scheduling" section.
-** *4.2.1.5.* If a PI intends to miss a future shift, they must either schedule a make up shift or trade the shift in SUMS at least 24 hours in advance of it starting. Any make-up shifts must be within 10 days of the missed shift. Staff will monitor whether shifts are made up by referencing SUMS Peer Instructor logins. If a PI requires a timeline extension or an exception to this policy, they should message Staff. Shifts that are missed due to illness, emergency, Institute Approved Absence, or other certain circumstances are excused, do not need to be made up, and may be dropped up until the shift starts (i.e. these situations do not follow the 24 hour rule). If you think you have a circumstance that should be excused, but does not fall under these two categories, contact Staff. However, those missing shifts due to these circumstances must still “drop” their shift if possible and provide a reason in SUMS. If this is done, PIs should not message in #peer-instructors that they are missing their shift. The Hive respects the privacy of its PIs, and thus specific details regarding illness or emergency do not need to be provided. However, general details should be provided if possible (i.e. woke up sick, family emergency, etc.).
 ** *4.2.1.6.* PIs with missed shifts, including shifts that are made up, regardless of if they are called out appropriately and made up, may be subject to disciplinary action at the discretion of Staff. Staff will determine each semester what amount of missed and made-up shifts is egregious. It is expected that PIs will need to miss shifts on occasion for various reasons, and thus one to two appropriately called out and made-up shifts will never be punished.
 ** *4.2.1.7.* PIs may permanently swap their shifts with other PIs if both parties agree and Staff have given their approval.
 ** *4.2.1.8.* PIs on shift must remain in their assigned room (except for brief lapses due to a bathroom break, helping someone else, etc.). PIs are required to follow their assigned PI shift role. For instance, a PI signed up for a 3D printing shift should not be in Laser Cutting or at the Front Desk unless it was expressly requested by Staff or an MPI.
@@ -363,6 +362,22 @@ We aim to help students gain hands on skills and technical knowledge by providin
 * *4.3.5.* PIs are allowed to queue 3D prints at the front of the queues after hours so long as all of the following are true: an active print is not being stopped, the print will finish before The Hive opens, another PIs print is not being passed in the queue, all time and material limits are being followed, all proper print procedures are being followed.
 * *4.3.6.* PIs are allowed to exceed the time limit for personal laser cuts after hours, so long as they are not preventing another PI from using a laser.
 * *4.3.7.* Executive Board meetings are open to any active PIs who wish to attend, space permitting. However, PIs must not be disruptive and should be mindful about consistently entering or leaving the meeting space. Meeting minutes are published on the SharePoint.
+
+=== 4.4 Shift Scheduling and Absences
+* *4.4.1.* If a PI must miss a future shift, they must either schedule a make-up shift or drop the shift, according to the guide below:
+[options="header"]
+|=======================
+|Type|Valid Reason|Required Actions
+|Drop|Missing a shift due to illness, medical or family emergencies, and Institute Approved Absences.| You must contact the Staff member in charge of shifts to get all drops excused, however you do not need to give specific details about your illness or emergency. If you have an Institute Approved Absence, you must provide documentation to Staff.
+
+|Make-up Shift|Missing a shift for any reason other than those listed for dropping, including scheduling conflicts, career fairs, interviews, etc.|You do not need to contact Staff.
+|=======================
+
+* *4.4.2.* PIs must schedule make-up shifts or drop a shift before that shift occurs. Failure to do so will result in an unexcused missed shift.
+* *4.4.3.* The new date for a make-up shift must be within 7 days of the originally scheduled shift.
+* *4.4.4.* Staff will monitor whether shifts are made up by referencing SUMS Peer Instructor logins. 
+* *4.4.5.* If a PI thinks they require an exception to these policies, they should message Staff. Situations will be handled on a case-by-case basis, and Staff will issue the final decision.
+
 
 == 5. Infractions and Disciplinary Action
 
