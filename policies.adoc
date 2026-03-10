@@ -178,25 +178,21 @@ We aim to help students gain hands on skills and technical knowledge by providin
 
 * *3.2.1.* Safety
 ** *3.2.1.1.* Safety glasses and non-latex gloves must always be worn while working with uncured resin.
-** *3.2.1.2.* Chemical and heat-resistant gloves, as well as safety glasses, must be worn when interacting with the NaOH bath. Only PIs are allowed to interact with the NaOH bath.
 * *3.2.2.* Room Policies
-** *3.2.2.1.* End users are prohibited from touching the printers, QSR bath, resin baths, the cure station, or any other 3D printing equipment except the desktop computers.
-** *3.2.2.2.* End users are allowed to use hand tools and equipment located inside the red toolbox.
+** *3.2.2.1.* End users are prohibited from touching the printers, resin baths, the cure station, or any other 3D printing equipment except the desktop queueing kiosk computers.
+** *3.2.2.2.* End users are allowed to use hand tools and equipment located inside the red toolbox in the circular room.
 * *3.2.3.* Printing Policies
-** *3.2.3.1.* The following FDM printers are in use at the space: Bambu Lab P1S, Stratasys F170, Markforged Mark Two. The following resin printers are in use at the space: Formlabs Form 3, Formlabs Form 3L.
-** *3.2.3.2.* All Stratasys prints must be approved by a 3D Printing MPI or Staff. Stratasys prints are limited to those that require dissolvable support or are unable to be printed on our other printers.
-** *3.2.3.3.* There is an 8-hour time limit for all prints in the space, excluding the Stratasys printers. Prints beyond 8 hours can only be approved by a 3D printing MPI or Staff.
-** *3.2.3.4.* There is a material limit of 100mL on all resin prints. Prints in excess of this limit can only be approved by a 3D printing MPI or Staff. There are no material limits for other printers.
-** *3.2.3.5.* Prints on the Markforged Mark Two must be approved by a 3D printing MPI or Staff. Generally, Staff will only permit prints that are for functional, research, or academic purposes.
-** *3.2.3.6.* Certain other prints may be required to be approved by a 3D printing MPI or Staff at their discretion. For instance, certain material types may need to be approved. If such approval is required, it will be indicated in the Airtable form filled out before starting a print.
-** *3.2.3.7.* Staff and the 3D printing MPIs reserve the right to deny any model from being printed. Staff and the 3D MPIs reserve the right to cancel any print at any time. The completion of a print in the space is not guaranteed.
-** *3.2.3.8.* PIs and Staff are not obligated to comply with specific printer or color requests. Prints that are deemed more appropriate for a specific printer will only be allowed on that printer.
-** *3.2.3.9.* The Hive is not responsible for prints after they are placed in the pickup area.
-** *3.2.3.10.* End users and PIs are allowed only one active or queued print in the space at a time. For instance, someone may not have a print in the queue on a Stratasys while actively printing on a Formlabs.
-** *3.2.3.11.* Multiple prints of the same models in the queue at the same time, even if queued by multiple individuals, are prohibited unless prior authorization from Staff has been obtained. This policy is intended to prevent printer use for mass printing by a group. For instance, three people part of a project group who each queue three different models would not be in violation of this policy. This policy will be enforced at the discretion of Staff.
-** *3.2.3.12.* Simple geometries may not be printed in the space. Simple geometries include, but are not limited to, cubes, boxes, prisms, spheres, and cylinders. What constitutes a simple geometry is to be determined at the discretion of the 3D printing MPIs and Staff. Generally, prints that appear to be simple geometries but have slight variations (and thus would be difficult to purchase off the shelf or make on another machine in the space) are allowed.
-** *3.2.3.13.* Completed prints sitting at the Hive for longer than 2 weeks, or after the space has closed for the semester, are subject to disposal.
-** *3.2.3.14.* End users and PIs may, in certain instances, print with their own provided materials which are not currently on any Hive printers. Any such prints must be approved by a 3D printing MPI or Staff, and a time must be scheduled to start the print. Only 3D printing MPIs and Staff are allowed to change out any printer materials for ones not provided by The Hive.
+** *3.2.3.1.* The following printers are in use at the space: Bambu Lab P1S, Bambu Lab H2D, Bambu Lab H2S, Stratasys J55 Prime Polyjet, Formlabs Form 4, Formlabs Form 3, and Formlabs Form 3L.
+** *3.2.3.2.* There is an 8-hour time limit for all prints in the space. Prints beyond 8 hours can only be approved by a 3D printing MPI or Staff.
+** *3.2.3.3.* There is a material limit of 100mL on all resin prints. Prints in excess of this limit can only be approved by a 3D printing MPI or Staff.
+** *3.2.3.4.* Staff and the 3D printing MPIs reserve the right to deny any model from being printed. Staff and the 3D MPIs reserve the right to cancel any print at any time. The completion of a print in the space is not guaranteed.
+** *3.2.3.5.* PIs and Staff are not obligated to comply with specific printer or color requests. Prints that are deemed more appropriate for a specific printer will only be allowed on that printer.
+** *3.2.3.6.* The Hive is not responsible for any prints after they are placed in the pickup area.
+** *3.2.3.7.* End users and PIs are allowed only one active or queued print bed in the space at a time. For instance, someone may not have a print in the queue on a Bambu Lab while actively printing on a Formlabs.
+** *3.2.3.8.* Excessive printing of the same models is prohibited even if done by seperate users. Excessiveness is at the discretion of staff.
+** *3.2.3.9.* Users printing simple geometry models easily made by use of the machine shop or laser cutting room will be reffered there. What constitutes a simple geometry is to be determined at the discretion of the 3D printing MPIs and Staff. 
+** *3.2.3.10.* Completed prints sitting at the Hive for longer than 2 weeks, or after the space has closed for the semester, are subject to disposal and users of these prints are subject to a 2-week ban.
+** *3.2.3.11.* End users and PIs may, in certain instances, print with their own provided materials which are not currently on any Hive printers. Any such prints must be approved by a 3D printing MPI or Staff, and a time must be scheduled to start the print. Only 3D printing MPIs and Staff are allowed to change out any printer materials for ones not provided by The Hive.
 
 === 3.3 Laser Cutting
 
