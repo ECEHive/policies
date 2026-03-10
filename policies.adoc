@@ -278,10 +278,8 @@ We aim to help students gain hands on skills and technical knowledge by providin
 ** *4.2.1.1.* Headphones and earbuds must not be worn while on shift. This ensures PIs remain alert to safety issues and appear approachable to end-users seeking assistance.
 ** *4.2.1.2.* The appropriate armband must be worn while on shift. PIs have an orange armband, and MPIs have a pink armband.
 ** *4.2.1.3.* Homework and personal device usage are permitted during your shift, provided there are no active end-users in the space being monitored. Exceptions to this policy are listed for specific technical areas below.
-** *4.2.1.4.* PIs are expected to be on time for their shift. Clocking in after the start of the shift will be considered late, and any missed time will count against a PI's weekly hours. This is explained more in the "Shift Scheduling" section.
-** *4.2.1.6.* PIs with missed shifts, including shifts that are made up, regardless of if they are called out appropriately and made up, may be subject to disciplinary action at the discretion of Staff. Staff will determine each semester what amount of missed and made-up shifts is egregious. It is expected that PIs will need to miss shifts on occasion for various reasons, and thus one to two appropriately called out and made-up shifts will never be punished.
-** *4.2.1.7.* PIs may permanently swap their shifts with other PIs if both parties agree and Staff have given their approval.
-** *4.2.1.8.* PIs on shift must remain in their assigned room (except for brief lapses due to a bathroom break, helping someone else, etc.). PIs are required to follow their assigned PI shift role. For instance, a PI signed up for a 3D printing shift should not be in Laser Cutting or at the Front Desk unless it was expressly requested by Staff or an MPI.
+** *4.2.1.4.* PIs are expected to be on time for their shifts. For more details about pre-shift responsibilities, see Section 4.4 "Shift Scheduling and Absences".
+** *4.2.1.5.* PIs on shift must remain in their assigned room (except for manning an unstaffed room, brief lapses due to a bathroom break, helping someone, etc.). PIs are required to follow their assigned PI shift role. For instance, a PI signed up for a 3D printing shift should not be in Laser Cutting or at the Front Desk unless it was expressly requested by Staff or an MPI.
 
 
 * *4.2.2.* Front Desk PI Responsibilities
@@ -364,7 +362,10 @@ We aim to help students gain hands on skills and technical knowledge by providin
 * *4.3.7.* Executive Board meetings are open to any active PIs who wish to attend, space permitting. However, PIs must not be disruptive and should be mindful about consistently entering or leaving the meeting space. Meeting minutes are published on the SharePoint.
 
 === 4.4 Shift Scheduling and Absences
-* *4.4.1.* If a PI must miss a future shift, they must either schedule a make-up shift or drop the shift, according to the guide below:
+* *4.4.1.* PIs must schedule their required 3 hours of shifts in the HUMS system each semester during the shift scheduling period. The shift scheduling period generally begins after orientation each semester (excluding Summer semesters) and ends the day before opening day. The exact dates will be announced prior to orientation for Spring and Fall semesters, or before opening day in the Summer semester.
+* *4.4.2.* If scheduling issues arise, such as incompatable shift slots, PIs must immediately contact Staff to resolve the issue. In extreme cases, Staff may create new shift slots to accomodate the scheduling conflict; however, these are rare and will be avoided as much as possible.
+* *4.4.3.* After opening day, PIs may permanently swap their shifts to another open time slot with the approval of Staff.
+* *4.4.4.* If a PI will miss a future shift, they must either schedule a make-up shift or drop that shift, according to the guide below:
 [options="header"]
 |=======================
 |Type|Valid Reason|Required Actions
@@ -373,10 +374,12 @@ We aim to help students gain hands on skills and technical knowledge by providin
 |Make-up Shift|Missing a shift for any reason other than those listed for dropping, including scheduling conflicts, career fairs, interviews, etc.|You do not need to contact Staff.
 |=======================
 
-* *4.4.2.* PIs must schedule make-up shifts or drop a shift before that shift occurs. Failure to do so will result in an unexcused missed shift.
-* *4.4.3.* The new date for a make-up shift must be within 7 days of the originally scheduled shift.
-* *4.4.4.* Staff will monitor whether shifts are made up by referencing SUMS Peer Instructor logins. 
-* *4.4.5.* If a PI thinks they require an exception to these policies, they should message Staff. Situations will be handled on a case-by-case basis, and Staff will issue the final decision.
+* *4.4.5.* PIs must schedule make-up shifts or drop a shift before that shift occurs. Failure to do so will result in an unexcused missed shift.
+* *4.4.6.* The new date for a make-up shift must be within 7 days of the originally scheduled shift.
+* *4.4.7.* PIs are expected to be on time for their shifts. Clocking in after the start of the shift will be considered late, and any missed time will count against a PI's weekly shift attendance time.
+* *4.4.8.* If a PI accumulates an excessive number of makeups for the same shift, that PI may be asked by Staff to permanently reschedule that shift to prevent further issues. Generally, excessive makeups will not be punished if it is determined to be non-malicious.
+* *4.4.9.* PIs with missed shifts may be subject to disciplinary action at the discretion of Staff. Staff will determine each semester what amount of missed shift time is egregious. It is expected that PIs will need to miss shifts on occasion for various reasons, and Staff will take this into account when determining cutoffs and disciplinary action.
+* *4.4.10.* If a PI thinks they require an exception to these policies, they should message Staff. Situations will be handled on a case-by-case basis, and Staff will issue the final decision.
 
 
 == 5. Infractions and Disciplinary Action
