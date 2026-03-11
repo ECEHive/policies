@@ -37,7 +37,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 === 1.4 End Users
 
 * *1.4.1.* An end user is defined as any member of the Georgia Tech community (student, faculty, staff, or other affiliate who possesses an active BuzzCard), who enters The Hive Makerspace and is not a Peer Instructor, member of the Executive Board, or member of The Hive Staff.
-* *1.4.2.* Anyone who is not an end user (i.e. does not possess an active BuzzCard or is not a member of the Georgia Tech community as defined above) is not allowed to use any of the equipment in the space unless explicit approval is given by Staff. These individuals are considered visitors and may only enter the space for tours, as guests of PIs, or for certain special events such as workshops.
+* *1.4.2.* Anyone who is not an end user (i.e. does not possess an active BuzzCard or is not a member of the Georgia Tech community as defined above) is not allowed to use any of the equipment in the space unless explicit approval is given by Staff. These individuals are considered visitors and may only enter the space for tours, as guests of PIs, or for certain special events such as workshops or outreach events.
 
 === 1.5 Peer Instructors (PIs)
 
