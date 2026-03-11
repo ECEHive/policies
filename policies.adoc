@@ -80,10 +80,11 @@ We aim to help students gain hands on skills and technical knowledge by providin
 
 === 2.1 Safety
 
-* *2.1.1.* All those in the Hive must follow the specific technical area safety rules for the room they are in. These safety rules are outlined in Section 3: Technical Area Specific Policies.
+* *2.1.1.* All those in the Hive must follow the specific technical area safety rules for the room they are in. These safety rules are outlined in Section 3 "Technical Area Specific Policies".
 * *2.1.2.* No one should ever use equipment they have never used before without consulting a PI.
-* *2.1.3.* Much of the equipment in the space operates only when a SUMS-controlled lock is unlocked by a PI. If you do not have access to a tool, please see a PI for assistance. The intention of SUMS electronic access to equipment is to ensure that the operator is able to use the tool safely. Bypassing the SUMS system in anyway will result in a Level 3 infraction. This includes, but not limited to, plugging the equipment directly to the wall, imitating signals from Buzzcards, or abusing the SUMS software to have access to equipment.
-* *2.1.4.* Open flames may only be used with the approval and supervision of Staff.
+* *2.1.3.* Much of the equipment in the space operates only when a HUMS-controlled lock is unlocked by a PI using a kiosk. If you do not have direct access to a tool, a trained user must unlock it and supervise you at all times. If you believe you should have access, contact a staff member. The intention of HUMS electronic access to equipment is to ensure that the operator is able to use the tool safely. 
+* *2.1.4.* Bypassing the HUMS lock in any way, excluding staff approval, will result in a Level 3 infraction. This includes, but is not limited to, plugging the equipment directly to the wall, imitating signals from BuzzCards, or abusing the HUMS software to have access to equipment.
+* *2.1.5.* Open flames may only be used with the approval and supervision of Staff.
 
 === 2.2 Conduct
 
