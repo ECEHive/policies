@@ -118,13 +118,12 @@ We aim to help students gain hands on skills and technical knowledge by providin
 
 === 2.5 Restricted Areas
 
-* *2.5.1.* The conference room, the PI office, and the area behind the front desk are PI only areas during open hours. PIs may invite non-PIs into these restricted areas after hours so long as such guests are supervised.
+* *2.5.1.* The conference room, the PI office, the blue stairwell, and the area behind the front desk are PI-only areas during open hours. PIs may invite non-PIs into these restricted areas after hours as long as such guests are supervised.
 * *2.5.2.* All closets and chemical cabinets are restricted to PIs only. The blue chemical cabinet in the semi-clean room and certain locked closets are restricted to Staff only.
 * *2.5.3.* All lockboxes are restricted to PIs only except the Staff lockbox behind the front desk, which is restricted to Staff only.
-* *2.5.4.* Drawers and cabinets throughout the space are not necessarily restricted to PIs only. Specific restrictions for specific technical areas are outlined in Section 3: Technical Area Specific Policies.
-* *2.5.5.* The blue staircase is restricted to PIs only except in case of emergency.
-* *2.5.6.* End users are only permitted to enter the space at the main door on the 2nd floor. End users shall not grant entry to anyone from any other door. Disciplinary action will be taken against end users who grant entry to anyone from any other door. PIs may grant entry to end users from other doors after hours or during open hours on an as-needed basis.
-* *2.5.7.* Anyone may exit the space from any door (except as listed above) so long as they sign out of SUMS prior to leaving.
+* *2.5.4.* Drawers and cabinets throughout the space are not necessarily restricted to PIs only. Restrictions for specific technical areas are outlined in section 3 "Technical Area Specific Policies".
+* *2.5.5.* End users are only permitted to enter the space at the main door on the 2nd floor unless accompanied by a PI. End users shall not grant entry to anyone through any locked door. PIs may grant entry to end users from other doors after hours or during open hours on an as-needed basis.
+* *2.5.6.* Anyone may exit the space from any door as long as they sign out of HUMS prior to leaving.
 
 === 2.6 Storage
 
