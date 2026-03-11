@@ -127,13 +127,14 @@ We aim to help students gain hands on skills and technical knowledge by providin
 
 === 2.6 Storage
 
-* *2.6.1.* End users may not store items in any areas except lockers unless stated otherwise elsewhere in this document. Lockers may be checked out at the front desk.
+* *2.6.1.* End users may not store items in any areas except lockers unless stated otherwise elsewhere in this document. Lockers are available for check-out at the front desk.
 * *2.6.2.* Lockers
-** *2.6.2.1.* Lockers may be checked out at the front desk by end users and PIs for a maximum period of 2 weeks. Checkouts are subject to availability. Lockers may be renewed for another 2 weeks if availability permits.
-** *2.6.2.2.* Any items left in lockers beyond the 2-week checkout period or space closing at the end of the semester are subject to being discarded.
-** *2.6.2.3.* No Hive equipment may be stored in lockers, unless if by a PI who checked out the equipment.
-** *2.6.2.4.* Lockers must use locks provided by The Hive. Personal locks are prohibited. The metal PI only lockers are excluded from this policy. Lockers may be left unlocked at the user’s own risk. The Hive is not responsible for lost or stolen items.
-* *2.6.3.* Items left in the space without permission will be discarded. PIs are allowed to leave items after hours if labeled with their names and collected before opening unless express permission is given by Staff for items to be left longer.
+** *2.6.2.1.* Lockers may be checked out at the front desk by end users for a maximum period of 2 weeks or until the semester's closing date. PIs may check out a locker until the end of the current semester. Checkouts are subject to availability. 
+** *2.6.2.2.* Lockers may be renewed if availability permits. The extension period for end users is 2 weeks.
+** *2.6.2.3.* Any items left in expired lockers are subject to being discarded.
+** *2.6.2.4.* No Hive equipment may be stored in lockers, except by a PI who checked out the equipment.
+** *2.6.2.5.* Lockers must use locks provided by The Hive. Personal locks are prohibited. Lockers may be left unlocked at the user’s own risk. The Hive is not responsible for lost or stolen items.
+* *2.6.3.* Items left in the space without permission will be discarded. PIs may leave items after hours if they are labeled with their name and date. Items must be collected before opening unless express permission is given by Staff for items to be left longer.
 
 === 2.7 Closing and After-Hours Use
 
