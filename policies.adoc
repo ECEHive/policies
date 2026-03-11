@@ -43,17 +43,23 @@ We aim to help students gain hands on skills and technical knowledge by providin
 
 * *1.5.1.* PIs are volunteers hired according to the processes set by the Executive Board each fall and spring semester.
 * *1.5.2.* Active Peer Instructors
-** *1.5.2.1.* PIs are considered active for a specific semester if they are signed up to work six 35-minute shifts per week, actively work those shifts, and remain in good standing at the Hive.
-** *1.5.2.2.* New active PIs must be trained in 3D printing, laser cutting, and benchtop electronics by the Friday of opening week. They must also be trained in one of the following by the semester class withdrawal deadline: craft, embedded systems, PCB fabrication, machine shop.
+** *1.5.2.1.* PIs are considered active for a specific semester if they are signed up to work six 30-minute shifts per week, actively work those shifts, and remain in good standing at The Hive.
+** *1.5.2.2.* New active PIs must have completed the required trainings for all technical areas by the hard deadline of Friday before opening week at 6:00pm. Failure to complete all training items or communicate about mitigating circumstances with Staff in a timely manner will result in revocation of PI status. The required training items are as follows:
+*** Electronics Benchtop: Pre-training video quiz, checkoffs for in-person training attendance, soldering, and breadboarding
+*** 3D Printing: Pre-training video quiz, in-person training attendance
+*** Laser Cutting: Completion of pre-training videos and design file, in-person training attendance
+*** Machine Shop: In-person training attendance
+*** Crafts: Pre-training video quiz, in-person training attendance
+*** PCB Fabrication: Training video with proficiency quiz
 ** *1.5.2.3.* PIs must participate in any events or training/retraining deemed mandatory by the Executive Board.
-** *1.5.2.4.* PIs must volunteer for at least one event outside of their shift each semester. These events will be communicated by the Executive Board and include workshops, cleaning parties, and other events to be determined. This requirement may also be fulfilled by attendance at a certain number of other events (possibly greater than a single event), such as committee meetings, at the discretion of Staff. What will fulfill a volunteering requirement for a given semester will be communicated by Staff.
+** *1.5.2.4.* PIs must volunteer for at least one event outside of their shift each semester. These events will be communicated by the Executive Board and include workshops, outreach events, cleaning parties, and other events to be determined. This requirement may also be fulfilled by attendance at a certain number of other events (possibly greater than a single event), such as committee meetings, at the discretion of Staff. What will fulfill a volunteering requirement for a given semester will be communicated by Staff.
 ** *1.5.2.5.* PIs who were active for the spring semester retain active status throughout the summer semester—without the requirement of signing up for and working shifts over the summer—unless they have graduated or otherwise do not plan on being an active PI in the following fall semester.
 ** *1.5.2.6.* Active PIs may access the space 24/7, except on rare occasions as determined by Staff and the Executive Board (for example, the Hive may be closed to PIs during specific events held at the space). Staff and the Executive Board reserve the right to revoke this access for specific PIs at any time.
 * *1.5.3.* Hiatus Peer Instructors
 ** *1.5.3.1.* PIs on hiatus are those not signed up to work shifts for a specific semester. The purpose of the hiatus status is to allow active PIs to take one or more semesters off working shifts and return to active status at a later date.
 ** *1.5.3.2.* Hiatus PIs do not have access to the space 24/7 and do not retain any other privileges granted to active PIs, including 3D printing privileges. Hiatus PIs retain only the privileges of end users.
 ** *1.5.3.3.* Hiatus PIs who remain in good standing at the Hive may become active again for an upcoming semester by informing the Executive Board of their intention to return to active status and by fulfilling all requirements of an active PI. Hiatus PIs who return to active status regain 24/7 access and any other privileges granted to active PIs.
-** *1.5.3.4.* If a PI on hiatus for more than 2 consecutive semesters, not including the summer semester, wishes to return to active status, their return must be approved by the Executive Board and they must recomplete the training requirements of a new PI, including the specialty technical area training.
+** *1.5.3.4.* If a PI stays on hiatus for 2 consecutive semesters, not including the summer semester, and wishes to return to active status, their return must be approved by the Executive Board and they must recomplete the training requirements of a new PI.
 ** *1.5.3.5.* Any further use of the term PI in this document refers to active PIs, not hiatus PIs.
 
 === 1.6 Master Peer Instructors (MPIs)
