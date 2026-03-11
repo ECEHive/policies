@@ -20,7 +20,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 * *1.1.1.* The main authorities of the Hive are the Director and Assistant Director. They have the final say on all matters in the space, including matters of policy and disciplinary action. Their authority supersedes this document.
 * *1.1.2.* The Hive Staff includes the Director, Assistant Director, and any number of Graduate Teaching Assistants (GTAs) and Undergraduate Teaching Assistants (UTAs) employed by the School of Electrical and Computer Engineering. GTAs and UTAs operate under the authority of the Director and the Assistant Director. Staff are not considered Peer Instructors, but they have the same authorities and privileges as well as additional ones as outlined in this document.
 * *1.1.3.* The Director and Assistant Director may employ, and determine at their discretion the authority of, Staff in addition to those listed in policy 1.1.2 who are not Peer Instructors.
-* *1.1.4.* The Executive Board operates under the authority of the Director and Assistant Director and in conjunction with GTAs and UTAs. The board shall consist of a Director of Strategy, a Director of Events, a Director of Outreach, a Director of Communications, and two Directors of Operations, each elected by the pool of Peer Instructors (as shown on Engage) in the spring semester to serve a full year term beginning in the late summer or early fall semester. The manner of election shall be determined by Staff, and the voting process shall be managed by Staff. Staff may participate in Executive Board activities, such as meetings, but are not part of the board. Executive Board members need not be active Peer Instructors while serving their term but shall have all privileges of an active Peer Instructor. The Director and Assistant Director may, at their discretion, appoint additional members to the board in any existing or new position. Appointed members need not be elected.
+* *1.1.4.* The Executive Board operates under the authority of the Director and Assistant Director and in conjunction with GTAs and UTAs. The board shall consist of a Director of Strategy, a Director of Technology, a Director of Human Resources, and a Director of Community, each elected by the pool of Peer Instructors in the spring semester to serve a full year term beginning in the late summer or early fall semester. The manner of election shall be determined by Staff, and the voting process shall be managed by Staff. Staff may participate in Executive Board activities, such as meetings, but are not part of the board. Executive Board members need not be active Peer Instructors while serving their term but shall have all privileges of an active Peer Instructor. The Director and Assistant Director may, at their discretion, appoint additional members to the board in any existing or new position. Appointed members need not be elected. The Director and Assistant Director may,  at their discretion, also remove members of the board if their role is no longer needed for the space.
 
 === 1.2 This Document
 
@@ -30,28 +30,28 @@ We aim to help students gain hands on skills and technical knowledge by providin
 
 === 1.3 Technical Areas
 
-* *1.3.1.* The Hive shall consist of the following technical areas: benchtop electronics, 3D printing, laser cutting, machine shop, crafts, PCB fabrication, and embedded systems. All PIs shall be trained in benchtop electronics, 3D printing, laser cutting, and at least one of the remaining technical areas.
+* *1.3.1.* The Hive shall consist of the following technical areas: benchtop electronics, 3D printing, laser cutting, machine shop, crafts, printed circuit board (PCB) fabrication, and embedded systems. All PIs shall be trained in benchtop electronics, 3D printing, laser cutting, crafts, and machine shop. They may also be trained in any additional technical areas if desired.
 
 === 1.4 End Users
 
 * *1.4.1.* An end user is defined as any member of the Georgia Tech community (student, faculty, staff, or other affiliate who possesses an active BuzzCard), who enters The Hive Makerspace and is not a Peer Instructor, member of the Executive Board, or member of The Hive Staff.
-* *1.4.2.* Anyone who is not an end user (i.e. does not possess an active BuzzCard or is not a member of the Georgia Tech community as defined above) is not allowed to use any of the equipment in the space unless explicit approval is given by Staff. These individuals are considered visitors and may only enter the space for tours, as guests of PIs, or for certain special events such as workshops.
+* *1.4.2.* Anyone who is not an end user (i.e. does not possess an active BuzzCard or is not a member of the Georgia Tech community as defined above) is not allowed to use any of the equipment in the space unless explicit approval is given by Staff. These individuals are considered visitors and may only enter the space for tours or as guests of PIs.
 
 === 1.5 Peer Instructors (PIs)
 
 * *1.5.1.* PIs are volunteers hired according to the processes set by the Executive Board each fall and spring semester.
 * *1.5.2.* Active Peer Instructors
-** *1.5.2.1.* PIs are considered active for a specific semester if they are signed up to work six 35-minute shifts per week, actively work those shifts, and remain in good standing at the Hive.
-** *1.5.2.2.* New active PIs must be trained in 3D printing, laser cutting, and benchtop electronics by the Friday of opening week. They must also be trained in one of the following by the semester class withdrawal deadline: craft, embedded systems, PCB fabrication, machine shop.
+** *1.5.2.1.* PIs are considered active for a specific semester if they are signed up to work six 30-minute shifts per week, actively work those shifts, complete their volunteer credit, and remain in good standing at the Hive.
+** *1.5.2.2.* New active PIs must be trained in 3D printing, laser cutting, crafts, and benchtop electronics by the Friday of opening week. They must also be trained in machine shop by the semester class withdrawal deadline.
 ** *1.5.2.3.* PIs must participate in any events or training/retraining deemed mandatory by the Executive Board.
-** *1.5.2.4.* PIs must volunteer for at least one event outside of their shift each semester. These events will be communicated by the Executive Board and include workshops, cleaning parties, and other events to be determined. This requirement may also be fulfilled by attendance at a certain number of other events (possibly greater than a single event), such as committee meetings, at the discretion of Staff. What will fulfill a volunteering requirement for a given semester will be communicated by Staff.
+** *1.5.2.4.* PIs must volunteer for at least one event outside of their shift each semester. These events will be communicated by the Executive Board and include workshops, cleaning parties, and other events to be determined. This requirement may also be fulfilled by attendance of 4 committee meetings. What will fulfill a volunteering requirement for a given semester will be communicated by Staff.
 ** *1.5.2.5.* PIs who were active for the spring semester retain active status throughout the summer semester—without the requirement of signing up for and working shifts over the summer—unless they have graduated or otherwise do not plan on being an active PI in the following fall semester.
-** *1.5.2.6.* Active PIs may access the space 24/7, except on rare occasions as determined by Staff and the Executive Board (for example, the Hive may be closed to PIs during specific events held at the space). Staff and the Executive Board reserve the right to revoke this access for specific PIs at any time.
+** *1.5.2.6.* Active PIs may access the space 24/7, except on rare occasions as determined by Staff and the Executive Board (for example, the Hive may be closed to PIs during specific events held at the space, or due to facilities issues of the building). Staff and the Executive Board reserve the right to revoke this access for specific PIs at any time.
 * *1.5.3.* Hiatus Peer Instructors
 ** *1.5.3.1.* PIs on hiatus are those not signed up to work shifts for a specific semester. The purpose of the hiatus status is to allow active PIs to take one or more semesters off working shifts and return to active status at a later date.
-** *1.5.3.2.* Hiatus PIs do not have access to the space 24/7 and do not retain any other privileges granted to active PIs, including 3D printing privileges. Hiatus PIs retain only the privileges of end users.
+** *1.5.3.2.* Hiatus PIs do not have access to the space 24/7 and do not retain any other privileges granted to active PIs. Hiatus PIs retain only the privileges of end users.
 ** *1.5.3.3.* Hiatus PIs who remain in good standing at the Hive may become active again for an upcoming semester by informing the Executive Board of their intention to return to active status and by fulfilling all requirements of an active PI. Hiatus PIs who return to active status regain 24/7 access and any other privileges granted to active PIs.
-** *1.5.3.4.* If a PI on hiatus for more than 2 consecutive semesters, not including the summer semester, wishes to return to active status, their return must be approved by the Executive Board and they must recomplete the training requirements of a new PI, including the specialty technical area training.
+** *1.5.3.4.* If a PI on hiatus for more than 2 consecutive semesters, not including the summer semester, wishes to return to active status, they must reapply to be a PI. Their return also requires they recomplete the training requirements of a new PI.
 ** *1.5.3.5.* Any further use of the term PI in this document refers to active PIs, not hiatus PIs.
 
 === 1.6 Master Peer Instructors (MPIs)
@@ -59,18 +59,16 @@ We aim to help students gain hands on skills and technical knowledge by providin
 * *1.6.1.* General Policies
 ** *1.6.1.1.* MPIs are PIs who specialize in a specific technical area and serve as leaders of their technical area.
 ** *1.6.1.2.* MPIs must abide by all policies listed section 1.5 (Peer Instructors), except as outlined in this section, 1.6. MPIs are considered active PIs and must follow all policies listed in this document that apply to active PIs, unless a specific exception is made.
-** *1.6.1.3.* MPIs may go on hiatus and retain their MPI status upon returning as an active PI unless this hiatus is for more than 2 consecutive semesters, not including summer semester. In the case of an MPI returning to active status after 2 such consecutive semesters, the Executive Board will determine whether MPI status shall be retained upon return to active PI status.
-** *1.6.1.4.* MPIs may request to change their specialty technical area by informing Staff. Changes will only be allowed if Staff and the MPIs of the technical area being changed to agree the change should be made.
-** *1.6.1.5.* On rare occasions, an individual may be an MPI for more than one technical area at the same time. Such instances must be approved by Staff and the MPIs of the technical areas in question.
+** *1.6.1.3.* MPIs may go on hiatus and retain their MPI status upon returning as an active PI unless this hiatus is for more than 2 consecutive semesters, not including summer semester. In the case of an MPI returning to active status after 2 such consecutive semesters, that MPI will have to reapply and be accepted.
 * *1.6.2.* MPI Requirements
 ** *1.6.2.1.* Failure to meet the following requirements may result MPIs being placed on probation or loss of MPI status, at the discretion of Staff. See section 5.7.
-** *1.6.2.2.* MPIs are required to work a total of 4 hours per week but are not required to sign up for shifts. These hours are to be referred to as flex hours. They may work these 4 hours at any time during open hours in 30-minute increments.
-** *1.6.2.3.* All MPIs must either host (or cohost) a workshop once per semester or be actively working on a space improvement project. Either of these also fulfill the PI event volunteering requirement for a semester. Space improvement projects need not be completed independently and may be worked on during an MPI’s flex hours. The progress of space improvement projects will be monitored by Staff.
-** *1.6.2.4.* MPIs must participate in training new PIs in their technical area each semester. Hours spent training or planning training can count towards flex hours.
+** *1.6.2.2.* MPIs are required to work a total of 3 hours per week with 15 minute shift blocks sign-ups retained each week (with available adding and dropping). Interviews and workshops contribute to these 3 hours per week.
+** *1.6.2.3.* All MPIs must either host (or cohost) a workshop once per semester or be actively working on a space improvement project. Either of these also fulfill the PI event volunteering requirement for a semester. Space improvement projects need not be completed independently and are encouraged to be worked on during an MPI’s flex hours. The progress of space improvement projects will be monitored by Staff and the Director of Strategy.
+** *1.6.2.4.* MPIs must participate in training new PIs in their technical area each semester. Hours spent training or planning training can count towards flex hours. They must host atleast 4 trainings a semester.
 ** *1.6.2.5.* All MPIs are required to participate in the PI hiring process each semester in a manner determined by the Executive Board.
 * *1.6.3.* Becoming an MPI
-** *1.6.3.1.* Any PI can apply at any time to become an MPI via the appropriate link on the SharePoint.
-** *1.6.3.2.* MPI applications will be reviewed as they are received by the current MPIs, the Executive Board, and Staff in a 3-tiered process consisting of the current MPIs of the technical area applied to, the overall MPI population, and the Executive Board/Staff. Final application acceptance shall only be issued by Staff. A member of the technical area in question, the Executive Board, or Staff will reach out to the applicant once a decision has been made. Applicants should note that even if they have a strong application, they may not be accepted if the technical area applied to has enough MPIs.
+** *1.6.3.1.* Any PI can apply at any time to become an MPI via the appropriate link on slack.
+** *1.6.3.2.* MPI applications will be reviewed as they are received by the current MPIs and appropriate staff liasons for the tech area. MPI applications are judged based on the applicants willingness and drive to learn and teach others as well as their previous contributions as a PI, technical ability will not play a part. Final application acceptance shall only be issued by Staff in which they will reach out to the applicant once a decision has been made. Applicants should note that even if they have a strong application, they may not be accepted if the technical area applied to has enough MPIs. 
 ** *1.6.3.3.* Accepted applicants will officially adopt MPI status, and all associated requirements and responsibilities, on a timeline specified by the current MPIs of the technical area, the Executive Board, and Staff. Applicants in their first semester as a PI cannot officially become an MPI until their second semester as a PI begins. As determined by the Executive Board and Staff, someone who becomes an MPI part-way through a semester may or may not have to complete the requirements listed in section 1.6.2 for that semester.
 ** *1.6.3.4.* Certain technical areas may accept MPI applications tentatively but require that applicants complete additional tasks to a satisfactory level before officially being accepted as an MPI and adopting MPI status. Such requirements are regulated by the MPIs of the technical area in question, the Executive Board, and Staff and will be shared with the applicant upon tentative application acceptance.
 ** *1.6.3.5.* Anyone may reapply to be an MPI at any time in the future.
@@ -82,32 +80,34 @@ We aim to help students gain hands on skills and technical knowledge by providin
 
 * *2.1.1.* All those in the Hive must follow the specific technical area safety rules for the room they are in. These safety rules are outlined in Section 3: Technical Area Specific Policies.
 * *2.1.2.* No one should ever use equipment they have never used before without consulting a PI.
-* *2.1.3.* Much of the equipment in the space operates only when a SUMS-controlled lock is unlocked by a PI. If you do not have access to a tool, please see a PI for assistance. The intention of SUMS electronic access to equipment is to ensure that the operator is able to use the tool safely. Bypassing the SUMS system in anyway will result in a Level 3 infraction. This includes, but not limited to, plugging the equipment directly to the wall, imitating signals from Buzzcards, or abusing the SUMS software to have access to equipment.
+* *2.1.3.* Much of the equipment in the space operates only when a HUMS-controlled lock is unlocked by a PI. If you do not have access to a tool, please see a PI for assistance. The intention of HUMS electronic access to equipment is to ensure that the operator is able to use the tool safely. Bypassing the HUMS system in anyway will result in a Level 3 infraction. This includes, but not limited to, plugging the equipment directly to the wall, imitating signals from Buzzcards, or abusing the HUMS software to have access to equipment.
 * *2.1.4.* Open flames may only be used with the approval and supervision of Staff.
 
 === 2.2 Conduct
 
-* *2.2.1.* All those in the space are expected to conduct themselves in an appropriate manner. End users and PIs are expected to show respect for all those in the space at all times.
+* *2.2.1.* All those in the space are expected to conduct themselves in an appropriate manner. End users and PIs are expected to show respect for all people and objects in the space at all times.
 * *2.2.2.* All those in the space must comply with all posted information signage. Failure to comply with any posted signage may result in disciplinary action.
 * *2.2.3.* All users of the space must comply with PI, MPI, and Staff instructions as they pertain to safety, conduct, and usage of the space.
+* *2.2.4.* All users of the space must clean up after themselves at all times.
+
 
 === 2.3 Shared User Management System (SUMS)
 
-* *2.3.1.* All those entering the space must sign into SUMS at one of the terminals in the space. Group tours are exempt from signing in.
-* *2.3.2.* All those exiting the space must sign out of SUMS upon leaving. An exception is made for those leaving for short periods, such as bathroom breaks.
-* *2.3.3.* Certain machines require a SUMS BuzzCard sign-in to use. Any attempt by an end user or PI to bypass SUMS to use a machine without prior authorization from Staff will result in a Level 3 infraction.
+* *2.3.1.* All those entering the space must sign into HUMS at one of the terminals in the space. Group tours are exempt from signing in.
+* *2.3.2.* All those exiting the space must sign out of HUMS upon leaving. An exception is made for those leaving for short periods, such as bathroom breaks.
+* *2.3.3.* Certain machines require a HUMS BuzzCard sign-in to use. Any attempt by an end user or PI to bypass HUMS to use a machine without prior authorization from Staff will result in a Level 3 infraction.
 
 === 2.4 Using the Space
 
 * *2.4.1.* End users are required to comply with the instructions of PIs.
-* *2.4.2.* End users may only be in the semi-clean room, laser cutting room, machine shop, and on the second floor if a PI is present and supervising them. End users must promptly leave a room if asked to by a PI who can no longer supervise the area.
-* *2.4.3.* Users of the space may not utilize the space or its tools to make or work on anything that could be considered a weapon or that could pose a danger to oneself or others. What constitutes a weapon or a danger shall be determined at the discretion of Staff.
+* *2.4.2.* End users may only be in the semi-clean room, laser cutting room, or machine shop if a PI is present and supervising them. End users must promptly leave a room if asked to by a PI who can no longer supervise the area.
+* *2.4.3.* Users of the space may not utilize the space or its tools to make or work on anything that could be considered a weapon or that could pose a danger to oneself or others. What constitutes a weapon or a danger shall be determined at the discretion of Staff. This includes 3D printing models.
 * *2.4.4.* Users of the space may not utilize the space or its tools to make or work on anything that is considered inappropriate for a college makerspace, as determined at the discretion of Staff.
 * *2.4.5.* Nothing created with the tools or materials provided by The Hive may be sold. This includes, but is not limited to, Etsy sales, eBay sales, and fundraisers.
 * *2.4.6.* Users of the space must not leave any mess at any places where they may work. Cleaning supplies are provided on carts on each floor. Specific cleaning policies for certain technical areas are outlined in Section 3: Technical Area Specific Policies.
 * *2.4.7.* No equipment is allowed to be removed from the space by end users or PIs unless an exception is specifically made in a proceeding section of this document. End users are not allowed to check equipment out of the space. PIs are allowed to check only certain equipment out of the space adhering to the rules of Section 4: Peer Instructor Specific Policies.
 * *2.4.8.* It is expected that accidents will happen, and equipment will be broken. Generally, if broken equipment is a result of an accident, no consequences or fees will be assessed. However, the ultimate decision on whether to assess a consequence or fee for broken equipment is at the discretion of Staff. Users of the space should notify Staff immediately is something is broken.
-* *2.4.9.* A lost and found is maintained at the space. However, The Hive is under no obligation to keep lost items, and they are subject to being discarded.
+* *2.4.9.* A lost and found is maintained at the front desk. However, The Hive is under no obligation to keep lost items, and they are subject to being discarded.
 
 === 2.5 Food and Drink
 
@@ -127,31 +127,32 @@ We aim to help students gain hands on skills and technical knowledge by providin
 * *2.6.4.* Drawers and cabinets throughout the space are not necessarily restricted to PIs only. Specific restrictions for specific technical areas are outlined in Section 3: Technical Area Specific Policies.
 * *2.6.5.* The blue staircase is restricted to PIs only except in case of emergency.
 * *2.6.6.* End users are only permitted to enter the space at the main door on the 2nd floor. End users shall not grant entry to anyone from any other door. Disciplinary action will be taken against end users who grant entry to anyone from any other door. PIs may grant entry to end users from other doors after hours or during open hours on an as-needed basis.
-* *2.6.7.* Anyone may exit the space from any door (except as listed above) so long as they sign out of SUMS prior to leaving.
+* *2.6.7.* Anyone may exit the space from any door (except as listed above) so long as they sign out of HUMS prior to leaving.
 
 === 2.7 Storage
 
 * *2.7.1.* End users may not store items in any areas except lockers unless stated otherwise elsewhere in this document. Lockers may be checked out at the front desk.
 * *2.7.2.* Lockers
-** *2.7.2.1.* Lockers may be checked out at the front desk by end users and PIs for a maximum period of 2 weeks. Checkouts are subject to availability. Lockers may be renewed for another 2 weeks if availability permits.
-** *2.7.2.2.* Any items left in lockers beyond the 2-week checkout period or space closing at the end of the semester are subject to being discarded.
+** *2.7.2.1.* Lockers may be checked out at the front desk by end users and PIs for a maximum period of a single semester. Checkouts are subject to availability. Lockers may be renewed for PIs only if availability permits.
+** *2.7.2.2.* Any items left in lockers beyond the space closing at the end of the semester are subject to being discarded.
 ** *2.7.2.3.* No Hive equipment may be stored in lockers, unless if by a PI who checked out the equipment.
 ** *2.7.2.4.* Lockers must use locks provided by The Hive. Personal locks are prohibited. The metal PI only lockers are excluded from this policy. Lockers may be left unlocked at the user’s own risk. The Hive is not responsible for lost or stolen items.
 * *2.7.3.* Items left in the space without permission will be discarded. PIs are allowed to leave items after hours if labeled with their names and collected before opening unless express permission is given by Staff for items to be left longer.
 
 === 2.8 Closing and After-Hours Use
 
-* *2.8.1.* End users must leave the space in a timely manner upon closing. It is the responsibility of every end user to monitor the time while in the space. A warning will be given 10 to 15 minutes prior to closing. At this time, end users should be cleaning up and exiting the space. End users should not wait until the closing announcement to clean up. PIs are under no obligation to stay after closing to accompany end users who need to finish their projects.
-* *2.8.2.* End users are only ever allowed in the space after hours if they are being supervised by an active PI. Please reference 4.3.2. for specific rules regarding PI guests.
-* *2.8.3.* End users soliciting, bribing, or pressuring PIs, MPIs, or staff members for access to or use of the space outside official open hours is strictly prohibited. This restriction applies to unsolicited requests from individuals who do not already have an established relationship with the PI, MPI, or staff member, including incoming PIs who have not yet completed required trainings, and does not supersede 4.3.2.
-* *2.8.4.* End users must clean up any mess left prior to exiting the space. Disciplinary action may be taken, at the discretion of Staff, if a mess is not cleaned up prior to closing.
-* *2.8.5.* Certain events at the Hive, such as workshops, take place after hours and are open to end users who RSVP for the specific event. End users in the space after hours who are not participating in the event and are not supervised by a PI are in violation of the policies of this section.
+* *2.8.1.* End users must leave the space in a timely manner upon closing. It is the responsibility of every end user to monitor the time while in the space. A warning will be given 10 to 15 minutes prior to closing. At this time, end users should be cleaning up and exiting the space. End users should not wait until the closing announcement to clean up. PIs are under no obligation to stay after closing to accompany end users who need to finish their projects. 
+* *2.8.2.* End users unaccompanied by a PI in the space at 6:10pm will recieve a disciplinary level 1 infraction and will be submit to a temporary ban.
+* *2.8.3.* End users are only ever allowed in the space after hours if they are being supervised by an active PI. Please reference 4.3.2. for specific rules regarding PI guests.
+* *2.8.4.* End users soliciting, bribing, or pressuring PIs, MPIs, or staff members for access to or use of the space outside official open hours is strictly prohibited. This restriction applies to unsolicited requests from individuals who do not already have an established relationship with the PI, MPI, or staff member, including incoming PIs who have not yet completed required trainings, and does not supersede 4.3.2.
+* *2.8.5.* End users must clean up any mess left prior to exiting the space. Disciplinary action may be taken, at the discretion of Staff, if a mess is not cleaned up prior to closing.
+* *2.8.6.* Certain events at the Hive, such as workshops, take place after hours and are open to end users who RSVP for the specific event. End users in the space after hours who are not participating in the event and are not supervised by a PI are in violation of the policies of this section.
 
 === 2.9 Workshops
 
 * *2.9.1.* Hive workshops are educational events, usually hosted after-hours, open to a limited number of end users or PIs.
-* *2.9.2.* Anyone who wishes to attend a workshop must RSVP for the workshop using the appropriate form sent in the weekly newsletter or elsewhere. Workshop slots are filled in the order RSVP forms are submitted. Once someone has filled out the form, they will receive an email indicating whether they have been successfully registered or placed on the waitlist. Workshops often have an extensive waitlist.
-* *2.9.3.* If someone is unable to attend a workshop, they must cancel their registration at least 24 hours in advance of the start of the workshop using the link provided in the original registration email. A failure to cancel 24 hours in advance or a failure to attend the workshop signed up for will result in the person being given probationary workshop status. When on probationary workshop status, if someone commits another violation of this policy, they will be banned from registering for workshops for a period of 3 months. Any concerns regarding this policy should be directed to hive@ece.gatech.edu.
+* *2.9.2.* Anyone who wishes to attend a workshop must RSVP for the workshop using the appropriate form sent in the weekly newsletter or the QR code in the ticker. Workshop slots are filled in the order RSVP forms are submitted. Once someone has filled out the form, they will receive an email indicating whether they have been successfully registered or placed on the waitlist. Workshops often have an extensive waitlist.
+* *2.9.3.* If someone is unable to attend a workshop, they must cancel their registration at least 24 hours in advance of the start of the workshop using the link provided in the original registration email. A failure to cancel 24 hours in advance or a failure to attend the workshop signed up for will result in the person being given probationary workshop status. When on probationary workshop status, if someone commits another violation of this policy, they will be banned from registering for workshops for the semester. Any concerns regarding this policy should be directed to hive@ece.gatech.edu.
 
 == 3. Area Specific Policies
 
@@ -166,7 +167,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 ** *3.1.2.3.* Benchtops must be completely clear of any debris or mess after use. PIs will check the cleanliness of benchtops before keys to drawers can be returned. Cleaning equipment is available for use. End users or PIs who leave messes at benchtops are subject to disciplinary action.
 ** *3.1.2.4.* Paint, stains, and the like are prohibited on benchtops.
 * *3.1.3.* Equipment
-** *3.1.3.1.* End users and PIs are prohibited from moving any equipment already at a benchtop between benchtop stations, including but not limited to soldering irons, soldering iron tips, and measurement equipment. Only the benchtop MPIs and Staff have the authority to move such equipment.
+** *3.1.3.1.* End users and PIs are prohibited from moving any equipment already at a benchtop between benchtop stations, including but not limited to soldering irons, soldering iron tips, and measurement equipment in the drawers. Only the benchtop MPIs and Staff have the authority to move such equipment.
 ** *3.1.3.2.* All equipment should be turned off when not in use. This includes soldering equipment as well as measurement equipment.
 ** *3.1.3.3.* Benchtop drawers can be accessed by retrieving a key from the front desk. End users must hand over their BuzzCards in exchange for keys.
 ** *3.1.3.4.* Equipment located in the drawers on lab bench 8 as well as the assorted spools of wire are free to use and may be kept by end users and PIs, within reason. For instance, an entire spool of wire may not be taken. PIs and Staff reserve the right to restrict the use of this equipment at any time.
@@ -215,7 +216,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 === 3.4 Machine Shop
 
 * *3.4.1.* Safety
-** *3.4.1.1.* Safety glasses must be worn by everyone in the machine shop AT ALL TIMES. There are no exceptions to this.
+** *3.4.1.1.* Safety glasses must be worn by everyone in the machine shop AT ALL TIMES. There are no exceptions to this. Safety glasses must be worn over any prescription glasses. Wider safety glasses for use over prescription glasses are available in the space.
 ** *3.4.1.2.* Any hoodie laces or the like must be tucked in.
 ** *3.4.1.3.* Hearing protection is available and recommended for powered machinery.
 ** *3.4.1.4.* Closed toed shoes are required to be worn in the machine shop.
@@ -224,7 +225,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 ** *3.4.1.7.* Only PIs specifically trained in the machine shop are allowed to supervise it, including after hours.
 ** *3.4.1.8.* Any activities utilizing tools from the machine shop must be done in the machine shop unless prior authorization is granted from Staff. Bringing one’s own equivalent tools does not allow one to circumvent this policy.
 * *3.4.2.* Specific Machine Policies
-** *3.4.2.1.* Individuals may not use the mill or the lathe unless specifically trained by The Hive to do so.
+** *3.4.2.1.* Individuals may not use the mill, shopbot,  or the lathe unless specifically trained by The Hive to do so.
 * *3.4.3.* End users are allowed to access the drawers and toolboxes in the machine shop unless they are labeled with restrictions.
 * *3.4.4.* End users and PIs may not store raw materials in the machine shop. Such materials may only be stored in lockers. However, they may store partially completed projects under the work benches for the purpose of continuing them later (for instance, for purposes such as letting glue dry or to return in a couple of days). All components of any projects stored must be labeled with the name and GT email address of the responsible party and the date the materials were left. Materials stored for longer than a period of 1 week or after the closing of the space for the semester may be declared abandoned and discarded. What constitutes raw materials or a project is to be determined at the discretion of the machine shop MPIs and Staff. The Hive does not guarantee the security of projects that are left and is not responsible for missing or damaged projects. Those leaving projects do so at their own risk.
 
@@ -241,8 +242,8 @@ We aim to help students gain hands on skills and technical knowledge by providin
 
 * *3.6.1.* Safety
 ** *3.6.1.1.* All irons and heat elements (such as the heat press) should be unplugged when not in use.
-** *3.6.1.2.* To ensure safety and limit misuse, craft equipment should only be used by those who know how to use it. End users should reach out to a craft-trained PI if they would like to learn any of the equipment.
-* *3.6.2.* Free-to-use materials may be made available at the discretion of the craft MPIs or Staff. Materials available for the semester will be determined prior to opening day but may be changed at any time.
+** *3.6.1.2.* To ensure safety and limit misuse, craft equipment should only be used by those who know how to use it. End users should reach out to a PI if they would like to learn any of the equipment.
+* *3.6.2.* Free-to-use materials may be made available at the discretion of the craft MPIs or Staff. Materials available for the semester will be determined prior to opening day but may be changed at any time. 
 * *3.6.3.* Bulk use or club/organization use of craft materials is prohibited. What defines bulk or club/organization use is to be determined at the discretion of the craft MPIs and Staff. Clubs and organizations are welcome to use the equipment in the craft area for large projects, but they are prohibited from using provided materials in large quantities.
 * *3.6.4.* The craft MPIs and Staff reserve the right to limit use of the machinery at their discretion.
 * *3.6.5.* If a machine malfunctions, end users and PIs should not attempt to fix it and should contact a craft MPI or Staff for assistance.
@@ -251,6 +252,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 
 * *3.7.1.* Safety
 ** *3.7.1.1.* The ventilation should always be turned on when the paint booth is actively being used.
+** *3.7.1.2.* Other PPE can be used by end users as desired, this includes face masks, respirators, safety glasses, nitrile gloves, and lab coats all provided within the room. It is highly recommended users wear nitrile gloves to prevent spray paint from staining their hands.
 * *3.7.2.* While end users are allowed to leave their projects to dry in the booth overnight, any projects are subject to disposal if left for what Staff deems to be an extended period. Any projects left in the booth should be labeled with the owner’s name and email address.
 
 === 3.8 3rd Floor
@@ -271,7 +273,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 
 * *4.2.1.* General PI Responsibilities
 ** *4.2.1.1.* Headphones and earbuds must not be worn while on shift. This is for safety reasons and the fact that having headphones on makes a PI seem unavailable for help.
-** *4.2.1.2.* The appropriate armband must be worn while on shift. PIs have an orange armband, and MPIs have a pink armband.
+** *4.2.1.2.* The appropriate armband must be worn while on shift. PIs have an orange armband, MPIs have a pink armband, and Staff wears a silver armband.
 ** *4.2.1.3.* Doing homework and being on personal devices is generally allowed while on shift so long as there are no active end users in the space being monitored. Exceptions to this policy are listed for specific technical areas below.
 ** *4.2.1.4.* PIs are expected to be on time for their shift.
 ** *4.2.1.5.* If a PI intends to miss a future shift, they must either schedule a make up shift or trade the shift in SUMS at least 24 hours in advance of it starting. Any make-up shifts must be within 10 days of the missed shift. Staff will monitor whether shifts are made up by referencing SUMS Peer Instructor logins. If a PI requires a timeline extension or an exception to this policy, they should message Staff. Shifts that are missed due to illness, emergency, Institute Approved Absence, or other certain circumstances are excused, do not need to be made up, and may be dropped up until the shift starts (i.e. these situations do not follow the 24 hour rule). If you think you have a circumstance that should be excused, but does not fall under these two categories, contact Staff. However, those missing shifts due to these circumstances must still “drop” their shift if possible and provide a reason in SUMS. If this is done, PIs should not message in #peer-instructors that they are missing their shift. The Hive respects the privacy of its PIs, and thus specific details regarding illness or emergency do not need to be provided. However, general details should be provided if possible (i.e. woke up sick, family emergency, etc.).
@@ -313,9 +315,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 ** *4.2.6.1.* PIs may have their homework out when long cuts are running and there is nothing to be actively monitored, but it should be put away when end users need help or something needs monitoring.
 ** *4.2.6.2.* PIs should greet all incoming end users and ask if they need help with anything.
 ** *4.2.6.3.* End users are welcome to set up cuts themselves, but PIs must verify the settings of every print before it starts. PIs must give the go ahead for every laser cut before an end user presses start.
-** *4.2.6.4.* PIs should ensure the floors of the laser cutting room are always clean, especially keeping an eye out for wood scraps and sawdust.
-** *4.2.6.5.* PIs should ensure the work bench in the Stratasys room is clear of any trash or debris and clean as necessary.
-** *4.2.6.6.* At least once per shift, PIs should check the laser cutting room trash can to see if it needs to be emptied and empty it if necessary.
+** *4.2.6.4.* PIs should ensure the floors, tables, and machines of the laser cutting room are always clean, especially keeping an eye out for wood scraps and sawdust.
 * *4.2.7.* 3D Printing PI Responsibilities
 ** *4.2.7.1.* PIs may have their homework out if the only end users in the semi-clean room are doing PCB fabrication but should not have it out when end users are present for 3D printing help. In the circular room, PIs may have their homework out if no end users are requesting help.
 ** *4.2.7.2.* PIs should greet all incoming end users and ask if they need help with anything.
@@ -330,7 +330,8 @@ We aim to help students gain hands on skills and technical knowledge by providin
 ** *4.2.8.2.* PIs should greet all incoming end users and ask if they need help with anything.
 ** *4.2.8.3.* PIs should consistently keep the floor and workbenches clear of any debris (scraps, sawdust, etc.) and sweep/vacuum as necessary.
 ** *4.2.8.4.* PIs should ensure all unused tools and scraps are put away in the appropriate places.
-** *4.2.8.5.* PIs should ensure all end users, other PIs, tour groups, and anyone else in the machine shop are wearing safety glasses while any equipment is in use (passive and powered equipment). This includes over prescription eyewear. The only time safety glasses are not required are when certain manual tools such as screwdrivers, wrenches, hand sandpaper, and the like are in use. This is not on a per-user basis. If one person in the shop is using a safety-glasses required tool, everyone in the shop must be wearing safety glasses.
+** *4.2.8.5.* PIs should ensure all end users, other PIs, tour groups, and anyone else in the machine shop are wearing safety glasses AT ALL TIMES. This includes over prescription eyewear. 
+** *4.2.8.6.* PIs should ensure that the door to the hallway and the door to the laser-cutting room are both open if a trained PI is in the machine shop. The only time these doors should be closed is after hours or when a trained PI is not in the room.
 * *4.2.9.* Floating PI Responsibilities
 ** *4.2.9.1.* PIs should spend the first 10 minutes of their shift making rounds around the space to see if any spots need to be filled.
 ** *4.2.9.2.* PIs should continue to monitor the slack to see if any spaces need to be filled throughout their shift.
