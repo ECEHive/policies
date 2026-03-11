@@ -232,9 +232,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 === 3.5 PCB Fabrication
 
 * *3.5.1.* Safety
-** *3.5.1.1.* Only those specifically trained to use the electroplater by The Hive are allowed to use it. End users and PIs can contact the PCB trainers or MPIs if they wish to be trained.
-** *3.5.1.2.* The appropriate safety equipment must be worn when using the electroplater, including safety glasses, chemical resistant gloves, and a chemical resistant apron. Failure to use the proper safety equipment will result in a level 3 infraction.
-** *3.5.1.3.* The reflow oven should be turned off when not in use.
+** *3.5.1.1.* The reflow oven should be turned off when not in use.
 * *3.5.2.* Only PIs are allowed to change the bits on the PCB mill. End users should contact a PI for assistance if it is needed.
 * *3.5.3.* End users are responsible for planning how long their cuts and etches will take and not starting them if the space will be closing before they finish. Processes that do not finish by the time the space closes are subject to cancellation.
 
