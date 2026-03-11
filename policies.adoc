@@ -66,13 +66,13 @@ We aim to help students gain hands on skills and technical knowledge by providin
 
 * *1.6.1.* General Policies
 ** *1.6.1.1.* MPIs are PIs who specialize in a specific technical area and serve as leaders of their technical area.
-** *1.6.1.2.* MPIs must abide by all policies listed section 1.5 (Peer Instructors), except as outlined in this section, 1.6. MPIs are considered active PIs and must follow all policies listed in this document that apply to active PIs, unless a specific exception is made.
-** *1.6.1.3.* MPIs may go on hiatus and retain their MPI status upon returning as an active PI unless this hiatus is for more than 2 consecutive semesters, not including summer semester. In the case of an MPI returning to active status after 2 such consecutive semesters, the Executive Board will determine whether MPI status shall be retained upon return to active PI status.
-** *1.6.1.4.* MPIs may request to change their specialty technical area by informing Staff. Changes will only be allowed if Staff and the MPIs of the technical area being changed to agree the change should be made.
+** *1.6.1.2.* MPIs must abide by all policies listed in section 1.5 (Peer Instructors), except as outlined in this section, 1.6. MPIs are considered active PIs and must follow all policies listed in this document that apply to active PIs, unless a specific exception is made.
+** *1.6.1.3.* MPIs may go on hiatus and retain their MPI status upon returning as an active PI unless this hiatus occurred over 2 consecutive semesters, not including summer semester. In the case of an MPI returning to active status after 2 such consecutive semesters, the Executive Board will determine whether MPI status shall be retained upon return to active PI status.
+** *1.6.1.4.* MPIs may request to change their specialty technical area by informing Staff. Changes are permitted only when both Staff and the MPIs of the technical area to which the change applies agree that the change should be made.
 ** *1.6.1.5.* On rare occasions, an individual may be an MPI for more than one technical area at the same time. Such instances must be approved by Staff and the MPIs of the technical areas in question.
 * *1.6.2.* MPI Requirements
-** *1.6.2.1.* Failure to meet the following requirements may result MPIs being placed on probation or loss of MPI status, at the discretion of Staff. See section 5.7.
-** *1.6.2.2.* MPIs are required to work a total of 4 hours per week but are not required to sign up for shifts. These hours are to be referred to as flex hours. They may work these 4 hours at any time during open hours in 30-minute increments.
+** *1.6.2.1.* Failure to meet the following requirements may result in MPIs being placed on probation or loss of MPI status, at the discretion of Staff. See section 5.7.
+** *1.6.2.2.* MPIs are required to work a total of 3 hours per week but are not required to sign up for shifts. These hours are to be referred to as flex hours. They may work these 4 hours at any time during open hours in 30-minute increments.
 ** *1.6.2.3.* All MPIs must either host (or cohost) a workshop once per semester or be actively working on a space improvement project. Either of these also fulfill the PI event volunteering requirement for a semester. Space improvement projects need not be completed independently and may be worked on during an MPI’s flex hours. The progress of space improvement projects will be monitored by Staff.
 ** *1.6.2.4.* MPIs must participate in training new PIs in their technical area each semester. Hours spent training or planning training can count towards flex hours.
 ** *1.6.2.5.* All MPIs are required to participate in the PI hiring process each semester in a manner determined by the Executive Board.
