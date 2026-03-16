@@ -181,93 +181,89 @@ We aim to help students gain hands on skills and technical knowledge by providin
 === 3.2 3D Printing
 
 * *3.2.1.* Safety
-** *3.2.1.1.* Safety glasses and non-latex gloves must always be worn while working with uncured resin.
-** *3.2.1.2.* Chemical and heat-resistant gloves, as well as safety glasses, must be worn when interacting with the NaOH bath. Only PIs are allowed to interact with the NaOH bath.
+** *3.2.1.1.* Safety glasses and non-latex gloves must be worn while working with uncured resin.
+** *3.2.1.2* Non-latex gloves must be worn while touching build plates on all Bambu Lab printers.
 * *3.2.2.* Room Policies
-** *3.2.2.1.* End users are prohibited from touching the printers, QSR bath, resin baths, the cure station, or any other 3D printing equipment except the desktop computers.
-** *3.2.2.2.* End users are allowed to use hand tools and equipment located inside the red toolbox.
+** *3.2.2.1.* End users are prohibited from touching the printers, resin baths, cure stations, or any other 3D printing equipment except the desktop computers.
+** *3.2.2.2.* End users are allowed to use hand tools and equipment located inside the red toolbox in the circular room.
 * *3.2.3.* Printing Policies
-** *3.2.3.1.* The following FDM printers are in use at the space: Bambu Lab P1S, Stratasys F170, Markforged Mark Two. The following resin printers are in use at the space: Formlabs Form 3, Formlabs Form 3L.
-** *3.2.3.2.* All Stratasys prints must be approved by a 3D Printing MPI or Staff. Stratasys prints are limited to those that require dissolvable support or are unable to be printed on our other printers.
-** *3.2.3.3.* There is an 8-hour time limit for all prints in the space, excluding the Stratasys printers. Prints beyond 8 hours can only be approved by a 3D printing MPI or Staff.
+** *3.2.3.1.* The following printers are in use at the space: Bambu Lab P1S, Bambu Lab H2D, Bambu Lab H2S, Formlabs Form 3, Formlabs Form 3L, Formlabs Form 4, Stratasys J55 Prime Polyjet.
+** *3.2.3.3.* There is an 8-hour time limit for all prints in the space. Prints beyond 8 hours can only be approved by a 3D printing MPI or Staff.
 ** *3.2.3.4.* There is a material limit of 100mL on all resin prints. Prints in excess of this limit can only be approved by a 3D printing MPI or Staff. There are no material limits for other printers.
-** *3.2.3.5.* Prints on the Markforged Mark Two must be approved by a 3D printing MPI or Staff. Generally, Staff will only permit prints that are for functional, research, or academic purposes.
-** *3.2.3.6.* Certain other prints may be required to be approved by a 3D printing MPI or Staff at their discretion. For instance, certain material types may need to be approved. If such approval is required, it will be indicated in the Airtable form filled out before starting a print.
-** *3.2.3.7.* Staff and the 3D printing MPIs reserve the right to deny any model from being printed. Staff and the 3D MPIs reserve the right to cancel any print at any time. The completion of a print in the space is not guaranteed.
-** *3.2.3.8.* PIs and Staff are not obligated to comply with specific printer or color requests. Prints that are deemed more appropriate for a specific printer will only be allowed on that printer.
+** *3.2.3.6.* Staff and the 3D printing MPIs reserve the right to deny any model from being printed. Staff and the 3D MPIs reserve the right to cancel any print at any time. The completion of a print in the space is not guaranteed.
 ** *3.2.3.9.* The Hive is not responsible for prints after they are placed in the pickup area.
-** *3.2.3.10.* End users and PIs are allowed only one active or queued print in the space at a time. For instance, someone may not have a print in the queue on a Stratasys while actively printing on a Formlabs.
+** *3.2.3.10.* End users and PIs are allowed only one active or queued print in the space at a time. For instance, someone may not have a print in the queue on a Bambu Labs printer while actively printing on a Formlabs printer.
 ** *3.2.3.11.* Multiple prints of the same models in the queue at the same time, even if queued by multiple individuals, are prohibited unless prior authorization from Staff has been obtained. This policy is intended to prevent printer use for mass printing by a group. For instance, three people part of a project group who each queue three different models would not be in violation of this policy. This policy will be enforced at the discretion of Staff.
-** *3.2.3.12.* Simple geometries may not be printed in the space. Simple geometries include, but are not limited to, cubes, boxes, prisms, spheres, and cylinders. What constitutes a simple geometry is to be determined at the discretion of the 3D printing MPIs and Staff. Generally, prints that appear to be simple geometries but have slight variations (and thus would be difficult to purchase off the shelf or make on another machine in the space) are allowed.
 ** *3.2.3.13.* Completed prints sitting at the Hive for longer than 2 weeks, or after the space has closed for the semester, are subject to disposal.
 ** *3.2.3.14.* End users and PIs may, in certain instances, print with their own provided materials which are not currently on any Hive printers. Any such prints must be approved by a 3D printing MPI or Staff, and a time must be scheduled to start the print. Only 3D printing MPIs and Staff are allowed to change out any printer materials for ones not provided by The Hive.
 
 === 3.3 Laser Cutting
 
 * *3.3.1.* Safety
-** *3.3.1.1.* End users are prohibited from using lasers without the assistance of a PI. They are only allowed to load materials as outlined below and use the desktop computers for planning their cuts.
+** *3.3.1.1.* End users are prohibited from operating lasers without the assistance of a PI. They are only allowed to load materials as outlined below and use the desktop computers for planning their cuts.
 ** *3.3.1.2.* End users are prohibited from starting cuts unless they have received approval to start a specific cut from a PI after the settings have been reviewed.
-** *3.3.1.3.* The following materials are prohibited on all laser cutters: Poly Vinyl Chloride (PVC), Vinyl, Pleather, Artificial Leather, Polycarbonate/Lexan thicker than 1mm, ABS, HDPE, Milk Bottle Plastic, Polystyrene Foam, Polypropylene Foam, Fiberglass, Coated Carbon Fiber. Anyone unsure of what material they have should consult a laser cutting MPI or Staff.
+** *3.3.1.3.* The following materials are prohibited on all laser cutters: Poly Vinyl Chloride (PVC), Vinyl, Artificial Leather, Polycarbonate/Lexan thicker than 1mm, ABS, HDPE, Polystyrene Foam, Polypropylene Foam, Fiberglass, Coated Carbon Fiber. Anyone unsure of what material they have should consult a laser cutting MPI or Staff.
 * *3.3.2.* ULS Laser Policies
-** *3.3.2.1.* Scrap wood, acrylic, and cardboard, as well as limited non-scrap wood, are available for use on the ULS laser. Non-scrap material (such as wood sheets) are limited to 2 sheets per end user. Only the laser cutting MPIs and Staff have the authority to grant more than this amount of material to end users. Only PIs should open cabinets containing materials. PIs have the authority to further limit the materials end users can take for use on the laser.
+** *3.3.2.1.* Scrap wood, acrylic, and cardboard, as well as limited non-scrap wood, are available for use on the ULS laser. Non-scrap material (such as wood sheets) are limited to 2 sheets per end user. Only the laser cutting MPIs and Staff have the authority to grant more than this amount of material to end users. Only PIs should open cabinets containing materials. Depending on material availability, PIs have the authority to further limit the materials end users can take for use on the laser.
 ** *3.3.2.2.* Only PIs are allowed to adjust the bed height and other associated mechanical settings on the laser.
 ** *3.3.2.3.* Only PIs may insert and remove the rotary tool.
 * *3.3.3.* FabLight Laser Policies
 ** *3.3.3.1.* Sheet metal is reserved for PI use only. End users must provide their own materials for use on the FabLight.
 ** *3.3.3.2.* End users are allowed to load their own materials onto the laser, but all cuts must be verified by a PI before they begin.
-** *3.3.3.3.* Only PIs may setup and remove the rotary tool.
-* *3.3.4.* Cuts on all lasers have a maximum time limit of 30 minutes. PIs have the authority to approve cuts longer than 30 minutes at their discretion, but only if there are not others waiting to use the laser.
-* *3.3.5.* End users are responsible for checking how long their cuts will take and not starting them if the space will be closing before they finish. Cuts that do not finish by the time the space closes are subject to cancellation.
-* *3.3.6.* Users are not allowed 2 cuts in a row if another user is waiting to use the laser.
+* *3.3.4.* Cuts on all lasers have a maximum time limit of 20 minutes. PIs have the authority to approve cuts longer than 20 minutes at their discretion, but only if there are no other users waiting for the laser.
+* *3.3.5.* Cuts that do not finish before the space closes are subject to cancellation.
+* *3.3.6.* If others are waiting to use the lasers, users must re-enter the queue following each cut.
 
 === 3.4 Machine Shop
 
 * *3.4.1.* Safety
-** *3.4.1.1.* Safety glasses must be worn by everyone in the machine shop AT ALL TIMES. There are no exceptions to this.
-** *3.4.1.2.* Any hoodie laces or the like must be tucked in.
+** *3.4.1.1.* Safety glasses must be worn by everyone, including people with prescription glasses, in the machine shop AT ALL TIMES. There are no exceptions to this. Wider safety glasses for use over prescription glasses are available. 
+** *3.4.1.2.* Any loose or dangling accessories, such as hoodie laces or loose jewelry, must be tucked in, secured, or removed to minimize the risk of getting caught in machinery.
 ** *3.4.1.3.* Hearing protection is available and recommended for powered machinery.
 ** *3.4.1.4.* Closed toed shoes are required to be worn in the machine shop.
 ** *3.4.1.5.* Long hair must be tied back. Hair ties are available in the machine shop and at the front desk.
-** *3.4.1.6.* There must always be more than 1 person in the machine shop while any equipment is being used. This “Buddy System” is to ensure another person is present to assist in the event of injury or an emergency.
+** *3.4.1.6.* There must always be more than 1 person in the machine shop while any equipment is being used. This “Buddy System” is to ensure another person (with or without training) is present to assist in the event of injury or an emergency, and is especially important after-hours. Violations of this policy will result in a Level 3 infraction without prior Staff approval.
 ** *3.4.1.7.* Only PIs specifically trained in the machine shop are allowed to supervise it, including after hours.
-** *3.4.1.8.* Any activities utilizing tools from the machine shop must be done in the machine shop unless prior authorization is granted from Staff. Bringing one’s own equivalent tools does not allow one to circumvent this policy.
-* *3.4.2.* Specific Machine Policies
-** *3.4.2.1.* Individuals may not use the mill or the lathe unless specifically trained by The Hive to do so.
-* *3.4.3.* End users are allowed to access the drawers and toolboxes in the machine shop unless they are labeled with restrictions.
-* *3.4.4.* End users and PIs may not store raw materials in the machine shop. Such materials may only be stored in lockers. However, they may store partially completed projects under the work benches for the purpose of continuing them later (for instance, for purposes such as letting glue dry or to return in a couple of days). All components of any projects stored must be labeled with the name and GT email address of the responsible party and the date the materials were left. Materials stored for longer than a period of 1 week or after the closing of the space for the semester may be declared abandoned and discarded. What constitutes raw materials or a project is to be determined at the discretion of the machine shop MPIs and Staff. The Hive does not guarantee the security of projects that are left and is not responsible for missing or damaged projects. Those leaving projects do so at their own risk.
+** *3.4.1.8.* Any activities utilizing tools found in the machine shop must be done in the machine shop unless prior authorization is granted from Staff. Bringing one's own equivalent tools does not allow one to circumvent this policy.
+* *3.4.2.* Machine Policies
+** *3.4.2.1.* Individuals may not use advanced tools, including but not limited to, the mill, ShopBot, or lathe, unless specifically trained by The Hive to do so.
+** *3.4.2.2* Individuals must obey material and thickness restrictions posted on each tool.
+* *3.4.3.* End users are allowed to access the drawers and toolboxes in the machine shop unless they are locked or labeled with restrictions.
+* *3.4.4.* End users and PIs may not store raw materials in the machine shop. Such materials may only be stored in lockers. However, they may store partially completed projects under the designated workbench for the purpose of continuing them later with prior MPI approval. All components of any projects stored must be labeled with the name and GT email address of the responsible party, current date, date of expected pickup, and name of the approving MPI. Projects left beyond their approved pickup date may be declared abandoned and discarded. The Hive does not guarantee the security of projects that are left and is not responsible for missing or damaged projects. Those leaving projects do so at their own risk.
 
 === 3.5 PCB Fabrication
 
 * *3.5.1.* Safety
-** *3.5.1.1.* Only those specifically trained to use the electroplater by The Hive are allowed to use it. End users and PIs can contact the PCB trainers or MPIs if they wish to be trained.
-** *3.5.1.2.* The appropriate safety equipment must be worn when using the electroplater, including safety glasses, chemical resistant gloves, and a chemical resistant apron. Failure to use the proper safety equipment will result in a level 3 infraction.
-** *3.5.1.3.* The reflow oven should be turned off when not in use.
-* *3.5.2.* Only PIs are allowed to change the bits on the PCB mill. End users should contact a PI for assistance if it is needed.
+** *3.5.1.1.* The reflow oven should be turned off when not in use.
+** *3.5.1.2.* Masks are provided and recommended when removing items from the Protomat PCB mill.
+* *3.5.2.* Only PIs are allowed to change the bits on the Protomat. End users should contact a PI for assistance if it is needed.
 * *3.5.3.* End users are responsible for planning how long their cuts and etches will take and not starting them if the space will be closing before they finish. Processes that do not finish by the time the space closes are subject to cancellation.
 
-=== 3.6 Craft
+=== 3.6 Crafts
 
 * *3.6.1.* Safety
 ** *3.6.1.1.* All irons and heat elements (such as the heat press) should be unplugged when not in use.
-** *3.6.1.2.* To ensure safety and limit misuse, craft equipment should only be used by those who know how to use it. End users should reach out to a craft-trained PI if they would like to learn any of the equipment.
-* *3.6.2.* Free-to-use materials may be made available at the discretion of the craft MPIs or Staff. Materials available for the semester will be determined prior to opening day but may be changed at any time.
-* *3.6.3.* Bulk use or club/organization use of craft materials is prohibited. What defines bulk or club/organization use is to be determined at the discretion of the craft MPIs and Staff. Clubs and organizations are welcome to use the equipment in the craft area for large projects, but they are prohibited from using provided materials in large quantities.
-* *3.6.4.* The craft MPIs and Staff reserve the right to limit use of the machinery at their discretion.
-* *3.6.5.* If a machine malfunctions, end users and PIs should not attempt to fix it and should contact a craft MPI or Staff for assistance.
+** *3.6.1.2.* To ensure safety and limit misuse, craft equipment should only be used by those who know how to use it. End users should reach out to a PI trained on the equipment or a crafts MPI if they would like to learn any of the equipment.
+* *3.6.2.* Free-to-use materials may be made available at the discretion of the crafts MPIs or Staff.
+* *3.6.3.* Bulk use or club/organization use of craft materials is prohibited. What defines bulk or club/organization use is to be determined at the discretion of the crafts MPIs and Staff. Clubs and organizations are welcome to use the equipment in the crafts area for large projects, but they are prohibited from using provided materials in large quantities.
+* *3.6.4.* The crafts MPIs and Staff reserve the right to limit use of the machinery at their discretion.
+* *3.6.5.* If a machine malfunctions, end users and PIs should not attempt to fix it and should contact a crafts MPI or Staff for assistance.
 
 === 3.7 Paint Booth
 
 * *3.7.1.* Safety
 ** *3.7.1.1.* The ventilation should always be turned on when the paint booth is actively being used.
-* *3.7.2.* While end users are allowed to leave their projects to dry in the booth overnight, any projects are subject to disposal if left for what Staff deems to be an extended period. Any projects left in the booth should be labeled with the owner’s name and email address.
+** *3.7.1.2.* All solvents must be disposed in the solvents waste container. Solvents must not be poured down any drains.
+* *3.7.2.* While end users are allowed to leave their projects to dry in the booth, any projects are subject to disposal if left for longer than a week. Any projects left in the booth should be labeled with the owner's name, email address, and the date of storage.
 
 === 3.8 3rd Floor
 
 * *3.8.1.* Tables are free to use by anyone on a first-come, first-served basis.
-* *3.8.2.* Monitors may be used by anyone. The provided desktop computers may also be used, and keyboards and mice are available for checkout at the front desk.
-* *3.8.3.* Food and drink are allowed on the 3rd floor but must be cleaned up. Cleaning supplies are available.
+* *3.8.2.* Docking stations and monitors may be used by anyone. Keyboards and mice are available for checkout at the front desk.
+* *3.8.3.* Food and drink are allowed on the 3rd floor but must be cleaned up. Cleaning supplies are available on the cleaning cart by the elevator.
 * *3.8.4.* Tables and desktop stations must be clear of any debris prior to leaving.
 * *3.8.5.* The Hive is not responsible for any items left unattended. Items left unattended or after closing are subject to being thrown away.
+* *3.8.6.* Large groups may not occupy more than 2 tables without Staff approval. The space is not intended for student organization meetings or office hours.
 
 == 4. Peer Instructor Specific Policies
 
