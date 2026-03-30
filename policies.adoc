@@ -100,8 +100,8 @@ We aim to help students gain hands on skills and technical knowledge by providin
 
 === 2.3 Using the Space
 
-* *2.3.1.* All those entering the space must sign into HUMS at one of the terminals in the space. Group tours are exempt from signing in for the duration of the tour.
-* *2.3.2.* All those exiting the space must sign out of HUMS upon leaving. An exception is made for those leaving for short periods, such as bathroom breaks.
+* *2.3.1.* End users entering the space must sign into HUMS at one of the terminals in the space. Group tours are exempt from signing in for the duration of the tour.
+* *2.3.2.* End users exiting the space must sign out of HUMS upon leaving.
 * *2.3.3.* End users are required to comply with the instructions of PIs.
 * *2.3.4.* End users may only be in the semi-clean room, laser cutting room, or machine shop if a PI is present and supervising them. End users must promptly leave a room if asked to by a PI who can no longer supervise the area, regardless of project status.
 * *2.3.5.* Users of the space may not utilize the space or its tools to make or work on anything that could be considered a weapon or that could pose a danger to oneself or others. What constitutes a weapon or a danger shall be determined by Staff.
@@ -274,21 +274,18 @@ We aim to help students gain hands on skills and technical knowledge by providin
 === 4.2 On-Shift Expectations
 
 * *4.2.1.* General PI Responsibilities
-** *4.2.1.1.* Headphones and earbuds must not be worn while on shift. This is for safety reasons and the fact that having headphones on makes a PI seem unavailable for help.
-** *4.2.1.2.* The appropriate armband must be worn while on shift. PIs have an orange armband, and MPIs have a pink armband.
-** *4.2.1.3.* Doing homework and being on personal devices is generally allowed while on shift so long as there are no active end users in the space being monitored. Exceptions to this policy are listed for specific technical areas below.
-** *4.2.1.4.* PIs are expected to be on time for their shift.
-** *4.2.1.5.* If a PI intends to miss a future shift, they must either schedule a make up shift or trade the shift in HUMS at least 24 hours in advance of it starting. Any make-up shifts must be within 10 days of the missed shift. Staff will monitor whether shifts are made up by referencing HUMS Peer Instructor logins. If a PI requires a timeline extension or an exception to this policy, they should message Staff. Shifts that are missed due to illness, emergency, Institute Approved Absence, or other certain circumstances are excused, do not need to be made up, and may be dropped up until the shift starts (i.e. these situations do not follow the 24 hour rule). If you think you have a circumstance that should be excused, but does not fall under these two categories, contact Staff. However, those missing shifts due to these circumstances must still “drop” their shift if possible and provide a reason in HUMS. If this is done, PIs should not message in #peer-instructors that they are missing their shift. The Hive respects the privacy of its PIs, and thus specific details regarding illness or emergency do not need to be provided. However, general details should be provided if possible (i.e. woke up sick, family emergency, etc.).
-** *4.2.1.6.* PIs with missed shifts, including shifts that are made up, regardless of if they are called out appropriately and made up, may be subject to disciplinary action at the discretion of Staff. Staff will determine each semester what amount of missed and made-up shifts is egregious. It is expected that PIs will need to miss shifts on occasion for various reasons, and thus one to two appropriately called out and made-up shifts will never be punished.
-** *4.2.1.7.* PIs may permanently swap their shifts with other PIs if both parties agree and Staff have given their approval.
-** *4.2.1.8.* PIs on shift must remain in their assigned room (except for brief lapses due to a bathroom break, helping someone else, etc.). PIs are required to follow their assigned PI shift role. For instance, a PI signed up for a 3D printing shift should not be in Laser Cutting or at the Front Desk unless it was expressly requested by Staff or an MPI.
+** *4.2.1.1.* Headphones and earbuds must not be worn while on shift due to safety reasons and making PIs seem unavailable to help.
+** *4.2.1.2.* The appropriate armband must be worn while on shift. PIs have an orange/red armband, and MPIs have a pink armband.
+** *4.2.1.3.* Homework and personal device usage are permitted during your shift, provided there are no active end-users in the space being monitored. Exceptions to this policy are listed for specific technical areas below.
+** *4.2.1.4.* PIs are expected to be on time for their shifts. For more details about pre-shift responsibilities, see Section 4.4 "Shift Scheduling and Absences".
+** *4.2.1.5.* PIs on shift must remain in their assigned room (except for manning an unstaffed room, brief lapses due to a bathroom break, helping someone, etc.). PIs are required to follow their assigned PI shift role. For instance, a PI signed up for a 3D printing shift should not be in Laser Cutting or at the Front Desk unless it was expressly requested by Staff or an MPI.
 * *4.2.2.* Front Desk PI Responsibilities
 ** *4.2.2.1.* PIs may have their work out even when end users are on the 2nd floor so long as they remain attentive to each end user that approaches the desk and to the 2nd floor as a whole.
-** *4.2.2.2.* PIs should greet all incoming end users and instruct them to sign in on a HUMS computer. They should ensure all PIs sign in as well. They should ensure all end users and PIs sign out when leaving and give a “thanks for stopping by” or some other salutation. Anyone may leave the space for a short period (i.e. to use the bathroom) without signing out.
-** *4.2.2.3.* PIs should offer a tour to anyone who is new to the space (if they say they have never been or if they have just signed the waiver on HUMS).
+** *4.2.2.2.* PIs must be attentive to all entering and exiting people. 
+** *4.2.2.3.* PIs must ensure end users and Peer Instructors sign in and out on a HUMS kiosk when entering and exiting. Only on-shift PIs may leave the space for a short period (i.e. to use the bathroom) without signing out.
 ** *4.2.2.4.* PIs should be prepared to give tours to anyone who requests one and should offer tours to any groups who enter as part of a campus tour or gathering. People on group tours are not required to sign into HUMS.
 ** *4.2.2.5.* PIs should know what items can be taken from the space and what items must be checked out with a BuzzCard. Policies for every item are listed in the inventory spreadsheet on the front desk computer and on the SharePoint.
-** *4.2.2.6.* PIs should make note of every item checked out by an end user on a sticky note and place it on their BuzzCard in the lock box.
+** *4.2.2.6.* PIs must make note of every item checked out by an end user on a sticky note and place it on their BuzzCard in the lock box.
 ** *4.2.2.7.* The key/BuzzCard lockbox should be closed and locked when not actively in use.
 ** *4.2.2.8.* When a key is returned, PIs should check the station to ensure it is clear of any cables, wires, tools, trash, etc.
 ** *4.2.2.9.* At least once per shift, PIs should check the 2nd floor trash cans to see if they need to be emptied. If so, they should be emptied.
