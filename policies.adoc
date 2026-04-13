@@ -54,7 +54,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 ** *1.5.3.1.* PIs on hiatus are those not signed up to work shifts for a specific semester. The purpose of the hiatus status is to allow active PIs to take one semester off working shifts and return to active status in the following semester.
 ** *1.5.3.2.* Hiatus PIs do not have access to the space 24/7 and do not retain any other privileges granted to active PIs. Hiatus PIs retain only the privileges of end users.
 ** *1.5.3.3.* Hiatus PIs who remain in good standing at the Hive may become active again for an upcoming semester by informing the Executive Board of their intention to return to active status and by fulfilling all requirements of an active PI. Hiatus PIs who return to active status regain 24/7 access and any other privileges granted to active PIs.
-** *1.5.3.4.* If a PI is on hiatus for 2 or more consecutive semesters, not including the summer semester, their status as a PI will be revoked unless the Exeutive Board is petitioned and grants an exception. After having their PI status revoked, that individual may reapply to be a PI for the following semester and must complete all new PI onboarding obligations including a complete retraining.
+** *1.5.3.4.* If a PI is on hiatus for 2 or more consecutive semesters, not including the summer semester, their status as a PI will be revoked unless the Executive Board is petitioned and grants an exception. After having their PI status revoked, that individual may reapply to be a PI for the following semester and must complete all new PI onboarding obligations including a complete retraining.
 ** *1.5.3.5.* Any further use of the term PI in this document refers to active PIs, not hiatus PIs.
 
 === 1.6 Master Peer Instructors (MPIs)
@@ -344,8 +344,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 ** *4.2.9.3.* If not actively filling a spot in another technical area, PIs should be assisting the front desk and benchtop PIs with their duties. They may follow the front desk homework guidelines outlined in section 4.2.2.1.
 ** *4.2.9.4.* It is acceptable for a PI to sit at the front desk or lectern when not making rounds, but they should not be there exclusively for their entire shift.
 ** *4.2.9.5.* Despite policy 4.2.7.3, being a floating PI is not an excuse for one to only do homework during their shift. They are still responsible for monitoring the space.
-** *4.2.9.6.* Floating PIs should not be on the third floor, unless making a round to monitor the space.
-
+ 
 === 4.3 PI Privileges and After-Hours Use
 
 * *4.3.1.* PIs are strictly prohibited from lending their BuzzCard to anyone else, including another PI, for the purposes of getting into the space or using equipment in the space. Violation of this policy will result in a Level 3 infraction and disciplinary action up to being terminated as a PI.
@@ -363,10 +362,10 @@ We aim to help students gain hands on skills and technical knowledge by providin
 * *4.4.4.* If a PI will miss a future shift, they must either schedule a make-up shift or drop that shift, according to the guide below:
 [options="header"]
 |=======================
-|Type|Valid Reason|Required Actions
-|Drop|Missing a shift due to illness, medical or family emergencies, and Institute Approved Absences.| You must contact the Staff member in charge of shifts to get all drops excused, however you do not need to give specific details about your illness or emergency. If you have an Institute Approved Absence, you must provide documentation to Staff.
+|Reason|Action
+|Missing a shift due to illness, medical or family emergencies, and Institute Approved Absences.|Drop the shift(s) in HUMS and write your reasoning. This must be done [underline]#before# the missed shift would start.
 
-|Make-up Shift|Missing a shift for any reason other than those listed for dropping, including scheduling conflicts, career fairs, interviews, etc.|You do not need to contact Staff.
+|Missing a shift for any reason other than those listed for dropping, including scheduling conflicts, career fairs, interviews, etc.|Schedule make-up shifts in HUMS. This must be done [underline]#before# the missed shift would start.
 |=======================
 
 * *4.4.5.* PIs must schedule make-up shifts or drop a shift before that shift occurs. Failure to do so will result in an unexcused missed shift.
@@ -384,18 +383,16 @@ We aim to help students gain hands on skills and technical knowledge by providin
 [options="header"]
 |=======================
 |Level|Type|Consequence
-|0|Warning|Verbal warning, documented in Slack.
-|1|Minimal|Written warning in HUMS. Violator will receive an email.
-|2|Moderate|2-week suspension from the space.
-|3|Severe|Longer suspension from the space, up to a permanent ban. Staff will determine the appropriate timeframe on a case-by-case basis.
+|0|Minimal|Verbal warning.
+|1|Moderate|Temporary suspension from the space.
+|2|Severe|Longer suspension from the space, up to a permanent ban. Staff will determine the appropriate timeframe on a case-by-case basis.
 |=======================
 
-* *5.3.* Level 0 infractions (warnings) may be issued by any PI to an end user and reported in Slack to Staff. Only MPIs and Staff may issue Level 0 infractions to other PIs. Level 1-3 infractions may only be issued by Staff. A record of infractions by PIs and end users will be maintained by Staff.
-* *5.4.* Multiple level 0 or level 1 infractions may result in a level 2 or 3 infraction. Multiple level 2 infractions may result in a level 3 infraction.
-* *5.5.* Active PIs who commit infractions may be subject to additional disciplinary action as determined by Staff. Generally, warnings and minimal infractions do not warrant any additional disciplinary action. However, higher level infractions may result in a PI being placed on hiatus for one or more semesters, being placed on probation, or being terminated as a PI.
-* *5.6.* The automated written warnings issued by HUMS when an individual forgets to sign out of the space do not constitute a level 0 infraction unless there have been multiple occurrences and Staff deems that a level 0 or higher infraction is appropriate.
+* *5.3.* Level 0 infractions may be issued by any PI to an end user and reported to Staff. Only MPIs and Staff may issue Level 0 infractions to PIs. Level 1-2 infractions may only be issued by Staff. A record of infractions by PIs and end users will be maintained by Staff.
+* *5.4.* Repeated infractions may result in higher level infractions.
+* *5.5.* Active PIs who commit infractions may be subject to additional disciplinary action as determined by Staff. Higher level infractions can result in a PI being placed on hiatus for one or more semesters, being placed on probation, or being terminated as a PI.
 * *5.7.* PI Probation
-** *5.7.1.* Active PIs who fail to meet certain requirements of being active PIs may be placed on probation. PIs will be informed if they are placed on probation. There are two types of PI probation: Volunteer Probation and Shift Probation. If an MPI is placed on either type of probation, they are subject to the loss of MPI status at the discretion of Staff.
+** *5.7.1.* Active PIs who fail to meet Active PI requirements may be placed on probation. PIs will be informed if they are placed on probation. There are two types of PI probation: Volunteer Probation and General Probation. If an MPI is placed on either type of probation, they are subject to the loss of MPI status at the discretion of Staff.
 ** *5.7.2.* Volunteer Probation
 *** *5.7.2.1.* PIs who fail to meet their volunteering requirement (as described in section 1.5) by the specified deadline will be placed on Volunteer Probation. MPIs who fail to meet their semesterly requirements (as outlined in section 1.6.2) by the specified deadlines will be placed on Volunteer Probation.
 *** *5.7.2.2.* PIs placed on volunteer probation remain on volunteer probation permanently across semesters, unlike general probation. If a PI fails to complete any subsequent volunteering requirement, that PI will be dismissed.
@@ -403,7 +400,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 *** *5.7.3.1.* PIs who violate policies may be placed on general probation at the discretion of Staff. General probation is temporary and usually lasts one semester. However, general probation may be extended or ended at the discretion of Staff.
 *** *5.7.3.2.* PIs on general probation who commit any further policy violations during their probationary period may be dismissed, at the discretion of Staff.
 *** *5.7.3.3.* PIs who are missing a significant number of shift hours (as determined by Staff and not including excused absences) will be placed on general probation.
-*** *5.7.3.4.* PIs on general probation will be closely monitored in their next semester as an active PI who works shifts. If they have unexcused shift absences during that semester, they will be dismissed. If they work all required shift hours (not accounting for excused absences), they will be removed from general probation at the end of that semester (given no other policy violations were committed warranting an extension of the probationary period).
-*** *5.7.3.5.* PIs who are missing a very significant number of shift hours in a given semester (as determined by Staff and not including excused absences) will be dismissed without being placed on probation.
-*** *5.7.3.6.* PIs who commit a single policy violation may be dismissed without being placed on probation if Staff deem the violation to be egregious enough.
+*** *5.7.3.4.* PIs on general probation will be closely monitored in their next semester as an active PI. If they have unexcused shift absences during that semester, they will be dismissed. If they work all required shift hours (not accounting for excused absences), they will be removed from general probation at the end of that semester (given no other policy violations were committed warranting an extension of the probationary period).
+*** *5.7.3.5.* PIs who are missing an egregious number of shift hours in a given semester (as determined by Staff and not including excused absences) will be dismissed without being placed on probation.
+*** *5.7.3.6.* PIs who commit a single policy violation may be dismissed without being placed on probation if Staff deems the violation to be egregious enough.
 *** *5.7.3.7.* PIs may choose to go on hiatus for a given semester for any reason until the drop day of that semester. PIs who choose to go on hiatus after drop day will still be subject to the probation and dismissal policies above.
