@@ -42,7 +42,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 
 === 1.5 Peer Instructors (PIs)
 
-* *1.5.1.* PIs are volunteers selected according to the processes set by the Executive Board each fall and spring semester.
+* *1.5.1.* PIs are volunteers hired according to the processes set by the Executive Board each fall and spring semester.
 * *1.5.2.* Active Peer Instructors
 ** *1.5.2.1.* PIs are considered active for a specific semester if they are signed up to work six 30-minute shifts per week, actively work those shifts, complete their volunteer credit, and remain in good standing at the Hive.
 ** *1.5.2.2.* New active PIs must have completed the required trainings for all technical areas by the hard deadline of Friday before opening week at 6:00pm. Failure to complete all training items or communicate about mitigating circumstances with Staff in a timely manner will result in revocation of PI status.
