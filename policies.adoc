@@ -66,7 +66,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 ** *1.6.1.4.* MPIs may request to change their specialty technical area by informing Staff. Changes are permitted only when both Staff and the MPIs of the technical area to which the change applies agree that the change should be made.
 ** *1.6.1.5.* On rare occasions, an individual may be an MPI for more than one technical area at the same time. Such instances must be approved by Staff and the MPIs of the technical areas in question.
 * *1.6.2.* MPI Requirements
-** *1.6.2.1.* Failure to meet the following requirements may result in MPIs being placed on probation or loss of MPI status, at the discretion of Staff. See Section 5.7.
+** *1.6.2.1.* Failure to meet the following requirements may result in MPIs being placed on probation or loss of MPI status, at the discretion of Staff. See Section 5.6.
 ** *1.6.2.2.* MPIs are required to work a total of 3 hours per week, scheduled in 15-minute blocks during open hours, referred to "flex hours". MPIs have an unlimited number of makeup shifts that can be scheduled within 1 week to reallocate their time. The full details may be found in Section 4.4 (Shift Scheduling and Absenses).
 ** *1.6.2.3.* All MPIs must either host (or cohost) a workshop or be actively working on a space improvement each semester. Either of these fulfill their PI event volunteering requirement for that semester. Planning for workshops may be counted towards the MPI's flex hours if done during open hours; however, the time spent running the workshop does not count towards their flex hours. Workshop preparation and space improvement projects need not be completed independently and may also be worked on during an MPI's flex hours. The progress of workshops and space improvement projects will be monitored by Staff and the Director of Strategy.
 ** *1.6.2.4.* MPIs of each technical area must evenly participate in training new PIs each semester, as determined by Staff. Hours spent training or planning training can count towards flex hours.
@@ -152,9 +152,9 @@ We aim to help students gain hands on skills and technical knowledge by providin
 
 === 2.8 Workshops
 
-* *2.9.1.* Hive workshops are educational events, usually hosted after-hours, open to a limited number of participants. End-users and PIs are eligible to sign up for workshops.
-* *2.9.2.* Anyone who wishes to attend a workshop must RSVP for the workshop using the appropriate form. Workshop slots are filled in the order RSVP forms are submitted. Once someone has filled out the form, they will receive an email indicating whether they have been successfully registered or placed on the waitlist. Workshops often have an extensive waitlist.
-* *2.9.3.* If someone is unable to attend a workshop, they must cancel their registration at least 24 hours in advance of the start of the workshop using the link provided in the original registration email. A failure to cancel 24 hours in advance or a failure to attend the workshop signed up for will result in the person being given probationary workshop status. Probation exceptions will be made for late promotions from the waitlist. When on probationary workshop status, if someone commits another violation of this policy, they will be banned from registering for workshops for a period of 3 months. Any concerns regarding this policy should be directed to hive@ece.gatech.edu.
+* *2.8.1.* Hive workshops are educational events, usually hosted after-hours, open to a limited number of participants. End-users and PIs are eligible to sign up for workshops.
+* *2.8.2.* Anyone who wishes to attend a workshop must RSVP for the workshop using the appropriate form. Workshop slots are filled in the order RSVP forms are submitted. Once someone has filled out the form, they will receive an email indicating whether they have been successfully registered or placed on the waitlist. Workshops often have an extensive waitlist.
+* *2.8.3.* If someone is unable to attend a workshop, they must cancel their registration at least 24 hours in advance of the start of the workshop using the link provided in the original registration email. A failure to cancel 24 hours in advance or a failure to attend the workshop signed up for will result in the person being given probationary workshop status. Probation exceptions will be made for late promotions from the waitlist. When on probationary workshop status, if someone commits another violation of this policy, they will be banned from registering for workshops for a period of 3 months. Any concerns regarding this policy should be directed to hive@ece.gatech.edu.
 
 == 3. Area Specific Policies
 
@@ -188,14 +188,14 @@ We aim to help students gain hands on skills and technical knowledge by providin
 ** *3.2.2.2.* End users are allowed to use hand tools and equipment located inside the red toolbox in the circular room.
 * *3.2.3.* Printing Policies
 ** *3.2.3.1.* The following printers are in use at the space: Bambu Lab P1S, Bambu Lab H2D, Bambu Lab H2S, Formlabs Form 3, Formlabs Form 3L, Formlabs Form 4, Stratasys J55 Prime Polyjet.
-** *3.2.3.3.* There is an 8-hour time limit for all prints in the space. Prints beyond 8 hours can only be approved by a 3D printing MPI or Staff.
-** *3.2.3.4.* There is a material limit of 100mL on all resin prints. Prints in excess of this limit can only be approved by a 3D printing MPI or Staff. There are no material limits for other printers.
-** *3.2.3.6.* Staff and the 3D printing MPIs reserve the right to deny any model from being printed. Staff and the 3D MPIs reserve the right to cancel any print at any time. The completion of a print in the space is not guaranteed.
-** *3.2.3.9.* The Hive is not responsible for prints after they are placed in the pickup area.
-** *3.2.3.10.* End users and PIs are allowed only one active or queued print in the space at a time. For instance, someone may not have a print in the queue on a Bambu Labs printer while actively printing on a Formlabs printer.
-** *3.2.3.11.* Multiple prints of the same models in the queue at the same time, even if queued by multiple individuals, are prohibited unless prior authorization from Staff has been obtained. This policy is intended to prevent printer use for mass printing by a group. For instance, three people part of a project group who each queue three different models would not be in violation of this policy. This policy will be enforced at the discretion of Staff.
-** *3.2.3.13.* Completed prints sitting at the Hive for longer than 2 weeks, or after the space has closed for the semester, are subject to disposal.
-** *3.2.3.14.* End users and PIs may, in certain instances, print with their own provided materials which are not currently on any Hive printers. Any such prints must be approved by a 3D printing MPI or Staff, and a time must be scheduled to start the print. Only 3D printing MPIs and Staff are allowed to change out any printer materials for ones not provided by The Hive.
+** *3.2.3.2.* There is an 8-hour time limit for all prints in the space. Prints beyond 8 hours can only be approved by a 3D printing MPI or Staff.
+** *3.2.3.3.* There is a material limit of 100mL on all resin prints. Prints in excess of this limit can only be approved by a 3D printing MPI or Staff. There are no material limits for other printers.
+** *3.2.3.4.* Staff and the 3D printing MPIs reserve the right to deny any model from being printed. Staff and the 3D MPIs reserve the right to cancel any print at any time. The completion of a print in the space is not guaranteed.
+** *3.2.3.5.* The Hive is not responsible for prints after they are placed in the pickup area.
+** *3.2.3.6.* End users and PIs are allowed only one active or queued print in the space at a time. For instance, someone may not have a print in the queue on a Bambu Labs printer while actively printing on a Formlabs printer.
+** *3.2.3.7.* Multiple prints of the same models in the queue at the same time, even if queued by multiple individuals, are prohibited unless prior authorization from Staff has been obtained. This policy is intended to prevent printer use for mass printing by a group. For instance, three people part of a project group who each queue three different models would not be in violation of this policy. This policy will be enforced at the discretion of Staff.
+** *3.2.3.8.* Completed prints sitting at the Hive for longer than 2 weeks, or after the space has closed for the semester, are subject to disposal.
+** *3.2.3.9.* End users and PIs may, in certain instances, print with their own provided materials which are not currently on any Hive printers. Any such prints must be approved by a 3D printing MPI or Staff, and a time must be scheduled to start the print. Only 3D printing MPIs and Staff are allowed to change out any printer materials for ones not provided by The Hive.
 
 === 3.3 Laser Cutting
 
@@ -295,20 +295,20 @@ We aim to help students gain hands on skills and technical knowledge by providin
 *** Politely announce over the PA system the closing of The Hive 15 minutes prior to and at closing time. For example, "The Hive is closing in 15 minutes. If you are not a PI or not with a PI, please start to clean your work area and return checked-out items to the front desk. We will open again tomorrow at 10am."
 *** Lock the front doors and flip the open sign to “closed.”
 *** Ensure all those remaining in the space are PIs or accompanied by a PI. All others should be asked to leave. If end users are unwilling to leave, PIs should contact Staff for assistance. If Staff is present and on-shift, they may handle clearing the space of end-users and inform closing PIs that they may end their shifts without completing this task.
-** *4.2.3.1.* Front Desk PIs should make consistent rounds throughout all benchtops, ensuring the following:
+** *4.2.2.13.* Front Desk PIs should make consistent rounds throughout all benchtops, ensuring the following:
 *** All who are soldering are wearing safety glasses, even on top of prescription glasses.
 *** No equipment (especially soldering equipment) is left switched on at unattended stations. This includes checking to make sure all irons, the heat press, and other heat elements at the crafts stations are unplugged when not in use.
 *** All unattended stations are clear of additional cables, tools, or other equipment that should not be there.
 *** Any trash/dirt around and under benchtops is swept up, especially loose solder and wire insulation.
-* *4.2.5.* Crafts PI Responsibilities
-** *4.2.5.1.* PIs on shift for crafts should be sitting in the crafts area when not actively assisting anyone.
-** *4.2.5.3.* PIs should ensure that any heat elements (sublimation printer, irons, etc.) are unplugged when not in use.
-** *4.2.5.4.* PIs should ensure that any scraps (threads, paper, fabric, etc.) are thrown away or discarded in the appropriate scrap receptacle.
+* *4.2.3.* Crafts PI Responsibilities
+** *4.2.3.1.* PIs on shift for crafts should be sitting in the crafts area when not actively assisting anyone.
+** *4.2.3.2.* PIs should ensure that any heat elements (sublimation printer, irons, etc.) are unplugged when not in use.
+** *4.2.3.3.* PIs should ensure that any scraps (threads, paper, fabric, etc.) are thrown away or discarded in the appropriate scrap receptacle.
 * *4.2.4.* Laser Cutting PI Responsibilities
-** *4.2.4.2.* PIs should greet all incoming end users and ask if they need help with anything.
-** *4.2.4.3.* End users are welcome to set up cuts themselves, but PIs must verify the settings of every print before it starts. PIs must give the go ahead for every laser cut before an end user presses start.
-** *4.2.4.4.* PIs should ensure the floors of the laser cutting room are always clean, especially keeping an eye out for wood scraps and sawdust.
-** *4.2.4.5.* At least once per shift, PIs should check the laser cutting room trash can to see if it needs to be emptied and empty it if necessary.
+** *4.2.4.1.* PIs should greet all incoming end users and ask if they need help with anything.
+** *4.2.4.2.* End users are welcome to set up cuts themselves, but PIs must verify the settings of every print before it starts. PIs must give the go ahead for every laser cut before an end user presses start.
+** *4.2.4.3.* PIs should ensure the floors of the laser cutting room are always clean, especially keeping an eye out for wood scraps and sawdust.
+** *4.2.4.4.* At least once per shift, PIs should check the laser cutting room trash can to see if it needs to be emptied and empty it if necessary.
 * *4.2.5.* 3D Printing - Circular Room PI Responsibilities
 ** *4.2.5.1.* PIs should ensure the work bench in the circular room is clear of any trash or debris and clean as necessary.
 ** *4.2.5.2.* PIs should greet all incoming end users and ask if they need help with anything.
@@ -325,22 +325,22 @@ We aim to help students gain hands on skills and technical knowledge by providin
 ** *4.2.6.3.* PIs should follow all print queuing guidelines communicated in training and posted throughout the semi-clean room.
 *** This includes processing any resin prints that have finished. PIs should not start processing resin prints if they cannot finish the wash process within their shift or directly pass it off to the next PI on shift. It is acceptable to leave a finished print in the printer in this case if PIs have no time to process it. These policies are intended to prevent the Isopropyl Alcohol (IPA) washes from being opened for extended periods.
 *** This includes checking the out-of-view printers (Stratasys and Formlabs 3L printers) a few times per shift. Any finished prints should be removed as soon as possible to keep queues moving.
-** *4.2.6.5.* If a printer malfunctions or gives an error, PIs should attempt to fix it or contact and MPI or Staff for assistance.
-** *4.2.6.6.* PIs should check the resin curing oven at least once per shift for any completed resin prints.
-** *4.2.6.7.* PIs should ensure the floors of the semi-clean room are always clean, especially keeping an eye out for loose filament pieces, paper towels, etc. They should sweep and vacuum as necessary.
-** *4.2.6.8.* At least once per shift, PIs should check the trash cans in the semi-clean room to see if they need to be emptied and if so empty them.
-** *4.2.6.9.* PIs should assist or find another PI to assist any PCB end users who need help.
-* *4.2.8.* Machine Shop PI Responsibilities
-** *4.2.8.2.* PIs should greet all incoming end users and ask if they need help with anything.
-** *4.2.8.3.* PIs should consistently keep the floor and workbenches clear of any debris (scraps, sawdust, etc.) and sweep/vacuum as necessary.
-** *4.2.8.4.* PIs should ensure all unused tools and scraps are put away in the appropriate places.
-** *4.2.8.5.* PIs should ensure all end users, other PIs, tour groups, and anyone else in the machine shop are wearing safety glasses while any equipment is in use (passive and powered equipment). This includes over prescription eyewear. The only time safety glasses are not required are when certain manual tools such as screwdrivers, wrenches, hand sandpaper, and the like are in use. This is not on a per-user basis. If one person in the shop is using a safety-glasses required tool, everyone in the shop must be wearing safety glasses.
-* *4.2.9.* Floating PI Responsibilities
-** *4.2.9.1.* PIs should spend the first 10 minutes of their shift making rounds around the space to see if any spots need to be filled.
-** *4.2.9.2.* PIs should continue to monitor the slack to see if any spaces need to be filled throughout their shift.
-** *4.2.9.3.* If not actively filling a spot in another technical area, PIs should be assisting the front desk and benchtop PIs with their duties. They may follow the front desk homework guidelines outlined in section 4.2.2.1.
-** *4.2.9.4.* It is acceptable for a PI to sit at the front desk or lectern when not making rounds, but they should not be there exclusively for their entire shift.
-** *4.2.9.5.* Despite policy 4.2.7.3, being a floating PI is not an excuse for one to only do homework during their shift. They are still responsible for monitoring the space.
+** *4.2.6.4.* If a printer malfunctions or gives an error, PIs should attempt to fix it or contact and MPI or Staff for assistance.
+** *4.2.6.5.* PIs should check the resin curing oven at least once per shift for any completed resin prints.
+** *4.2.6.6.* PIs should ensure the floors of the semi-clean room are always clean, especially keeping an eye out for loose filament pieces, paper towels, etc. They should sweep and vacuum as necessary.
+** *4.2.6.7.* At least once per shift, PIs should check the trash cans in the semi-clean room to see if they need to be emptied and if so empty them.
+** *4.2.6.8.* PIs should assist or find another PI to assist any PCB end users who need help.
+* *4.2.7.* Machine Shop PI Responsibilities
+** *4.2.7.1.* PIs should greet all incoming end users and ask if they need help with anything.
+** *4.2.7.2.* PIs should consistently keep the floor and workbenches clear of any debris (scraps, sawdust, etc.) and sweep/vacuum as necessary.
+** *4.2.7.3.* PIs should ensure all unused tools and scraps are put away in the appropriate places.
+** *4.2.7.4.* PIs should ensure all end users, other PIs, tour groups, and anyone else in the machine shop are wearing safety glasses while any equipment is in use (passive and powered equipment). This includes over prescription eyewear. The only time safety glasses are not required are when certain manual tools such as screwdrivers, wrenches, hand sandpaper, and the like are in use. This is not on a per-user basis. If one person in the shop is using a safety-glasses required tool, everyone in the shop must be wearing safety glasses.
+* *4.2.8.* Floating PI Responsibilities
+** *4.2.8.1.* PIs should spend the first 10 minutes of their shift making rounds around the space to see if any spots need to be filled.
+** *4.2.8.2.* PIs should continue to monitor the slack to see if any spaces need to be filled throughout their shift.
+** *4.2.8.3.* If not actively filling a spot in another technical area, PIs should be assisting the front desk and benchtop PIs with their duties. They may follow the front desk homework guidelines outlined in section 4.2.2.1.
+** *4.2.8.4.* It is acceptable for a PI to sit at the front desk or lectern when not making rounds, but they should not be there exclusively for their entire shift.
+** *4.2.8.5.* Despite policy 4.2.8.3, being a floating PI is not an excuse for one to only do homework during their shift. They are still responsible for monitoring the space.
  
 === 4.3 PI Privileges and After-Hours Use
 
@@ -388,16 +388,16 @@ We aim to help students gain hands on skills and technical knowledge by providin
 * *5.3.* Level 0 infractions may be issued by any PI to an end user and reported to Staff. Only MPIs and Staff may issue Level 0 infractions to PIs. Level 1-2 infractions may only be issued by Staff. A record of infractions by PIs and end users will be maintained by Staff.
 * *5.4.* Repeated infractions may result in higher level infractions.
 * *5.5.* Active PIs who commit infractions may be subject to additional disciplinary action as determined by Staff. Higher level infractions can result in a PI being placed on hiatus for one or more semesters, being placed on probation, or being terminated as a PI.
-* *5.7.* PI Probation
-** *5.7.1.* Active PIs who fail to meet Active PI requirements may be placed on probation. PIs will be informed if they are placed on probation. There are two types of PI probation: Volunteer Probation and General Probation. If an MPI is placed on either type of probation, they are subject to the loss of MPI status at the discretion of Staff.
-** *5.7.2.* Volunteer Probation
-*** *5.7.2.1.* PIs who fail to meet their volunteering requirement (as described in section 1.5) by the specified deadline will be placed on Volunteer Probation. MPIs who fail to meet their semesterly requirements (as outlined in section 1.6.2) by the specified deadlines will be placed on Volunteer Probation.
-*** *5.7.2.2.* PIs placed on volunteer probation remain on volunteer probation permanently across semesters, unlike general probation. If a PI fails to complete any subsequent volunteering requirement, that PI will be dismissed.
-** *5.7.3.* General Probation
-*** *5.7.3.1.* PIs who violate policies may be placed on general probation at the discretion of Staff. General probation is temporary and usually lasts one semester. However, general probation may be extended or ended at the discretion of Staff.
-*** *5.7.3.2.* PIs on general probation who commit any further policy violations during their probationary period may be dismissed, at the discretion of Staff.
-*** *5.7.3.3.* PIs who are missing a significant number of shift hours (as determined by Staff and not including excused absences) will be placed on general probation.
-*** *5.7.3.4.* PIs on general probation will be closely monitored in their next semester as an active PI. If they have unexcused shift absences during that semester, they will be dismissed. If they work all required shift hours (not accounting for excused absences), they will be removed from general probation at the end of that semester (given no other policy violations were committed warranting an extension of the probationary period).
-*** *5.7.3.5.* PIs who are missing an egregious number of shift hours in a given semester (as determined by Staff and not including excused absences) will be dismissed without being placed on probation.
-*** *5.7.3.6.* PIs who commit a single policy violation may be dismissed without being placed on probation if Staff deems the violation to be egregious enough.
-*** *5.7.3.7.* PIs may choose to go on hiatus for a given semester for any reason until the drop day of that semester. PIs who choose to go on hiatus after drop day will still be subject to the probation and dismissal policies above.
+* *5.6.* PI Probation
+** *5.6.1.* Active PIs who fail to meet Active PI requirements may be placed on probation. PIs will be informed if they are placed on probation. There are two types of PI probation: Volunteer Probation and General Probation. If an MPI is placed on either type of probation, they are subject to the loss of MPI status at the discretion of Staff.
+** *5.6.2.* Volunteer Probation
+*** *5.6.2.1.* PIs who fail to meet their volunteering requirement (as described in section 1.5) by the specified deadline will be placed on Volunteer Probation. MPIs who fail to meet their semesterly requirements (as outlined in section 1.6.2) by the specified deadlines will be placed on Volunteer Probation.
+*** *5.6.2.2.* PIs placed on volunteer probation remain on volunteer probation permanently across semesters, unlike general probation. If a PI fails to complete any subsequent volunteering requirement, that PI will be dismissed.
+** *5.6.3.* General Probation
+*** *5.6.3.1.* PIs who violate policies may be placed on general probation at the discretion of Staff. General probation is temporary and usually lasts one semester. However, general probation may be extended or ended at the discretion of Staff.
+*** *5.6.3.2.* PIs on general probation who commit any further policy violations during their probationary period may be dismissed, at the discretion of Staff.
+*** *5.6.3.3.* PIs who are missing a significant number of shift hours (as determined by Staff and not including excused absences) will be placed on general probation.
+*** *5.6.3.4.* PIs on general probation will be closely monitored in their next semester as an active PI. If they have unexcused shift absences during that semester, they will be dismissed. If they work all required shift hours (not accounting for excused absences), they will be removed from general probation at the end of that semester (given no other policy violations were committed warranting an extension of the probationary period).
+*** *5.6.3.5.* PIs who are missing an egregious number of shift hours in a given semester (as determined by Staff and not including excused absences) will be dismissed without being placed on probation.
+*** *5.6.3.6.* PIs who commit a single policy violation may be dismissed without being placed on probation if Staff deems the violation to be egregious enough.
+*** *5.6.3.7.* PIs may choose to go on hiatus for a given semester for any reason until the drop day of that semester. PIs who choose to go on hiatus after drop day will still be subject to the probation and dismissal policies above.
