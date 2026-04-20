@@ -66,7 +66,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 ** *1.6.1.4.* MPIs may request to change their specialty technical area by informing Staff. Changes are permitted only when both Staff and the MPIs of the technical area to which the change applies agree that the change should be made.
 ** *1.6.1.5.* On rare occasions, an individual may be an MPI for more than one technical area at the same time. Such instances must be approved by Staff and the MPIs of the technical areas in question.
 * *1.6.2.* MPI Requirements
-** *1.6.2.1.* Failure to meet the following requirements may result in MPIs being placed on probation or loss of MPI status, at the discretion of Staff. See Section 5.6.
+** *1.6.2.1.* Failure to meet the following requirements may result in MPIs being placed on probation or loss of MPI status, at the discretion of Staff (see Section 5.6).
 ** *1.6.2.2.* MPIs are required to work a total of 3 hours per week, scheduled in 15-minute blocks during open hours, referred to "flex hours". MPIs have an unlimited number of makeup shifts that can be scheduled within 1 week to reallocate their time. The full details may be found in Section 4.4 (Shift Scheduling and Absenses).
 ** *1.6.2.3.* All MPIs must either host (or cohost) a workshop or be actively working on a space improvement each semester. Either of these fulfill their PI event volunteering requirement for that semester. Planning for workshops may be counted towards the MPI's flex hours if done during open hours; however, the time spent running the workshop does not count towards their flex hours. Workshop preparation and space improvement projects need not be completed independently and may also be worked on during an MPI's flex hours. The progress of workshops and space improvement projects will be monitored by Staff and the Director of Strategy.
 ** *1.6.2.4.* MPIs of each technical area must evenly participate in training new PIs each semester, as determined by Staff. Hours spent training or planning training can count towards flex hours.
@@ -88,7 +88,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 * *2.1.1.* All those in the Hive must follow the specific technical area safety rules for the room they are in. These safety rules are outlined in Section 3: Technical Area Specific Policies.
 * *2.1.2.* No one should ever use equipment they have never used before without consulting a PI or Staff.
 * *2.1.3.* Much of the equipment in the space operates only when a HUMS-controlled lock is unlocked by a PI using a kiosk. If you do not have direct access to a tool, a trained user must unlock it and supervise you at all times. If you believe you should have access, contact a Staff member. The intention of HUMS electronic access to equipment is to ensure that the operator is able to use the tool safely.
-* *2.1.4.* Bypassing the HUMS lock in any way, excluding cases with Staff approval, will result in a Level 3 infraction. This includes, but is not limited to, plugging the equipment directly to the wall, imitating signals from BuzzCards, or abusing the HUMS software to have access to equipment.
+* *2.1.4.* Bypassing the HUMS lock in any way, excluding cases with Staff approval, will result in a level 2 infraction. This includes, but is not limited to, plugging the equipment directly to the wall, imitating signals from BuzzCards, or abusing the HUMS software to have access to equipment.
 * *2.1.5.* Open flames may only be used with the approval and supervision of Staff.
 
 === 2.2 Conduct
@@ -127,7 +127,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 * *2.5.1.* The conference room, the PI office, the blue stairwell, and the area behind the front desk are PI-only areas during open hours. PIs may invite non-PIs into these restricted areas after hours as long as such guests are supervised. Refer to Section 4.3 (PI Privileges and After-Hours Use)
 * *2.5.2.* All closets and chemical cabinets are restricted to PIs only. The blue chemical cabinet in the semi-clean room and certain locked closets are restricted to Staff only.
 * *2.5.3.* All lockboxes are restricted to PIs only except the Staff lockbox behind the front desk, which is restricted to Staff only.
-* *2.5.4.* Drawers and cabinets throughout the space are not necessarily restricted to PIs only. Restrictions for specific technical areas are outlined in section 3 "Technical Area Specific Policies".
+* *2.5.4.* Drawers and cabinets throughout the space are not necessarily restricted to PIs only. Restrictions for specific technical areas are outlined in Section 3 "Technical Area Specific Policies".
 * *2.5.5.* End users are only permitted to enter the space at the main door on the 2nd floor unless accompanied by a PI. End users shall not grant entry to anyone through any locked door. PIs may grant entry to end users from other doors after hours or during open hours on an as-needed basis.
 * *2.5.6.* Anyone may exit the space from any door as long as they sign out of HUMS prior to leaving.
 
@@ -145,8 +145,8 @@ We aim to help students gain hands on skills and technical knowledge by providin
 === 2.7 Closing and After-Hours Use
 
 * *2.7.1.* End users must leave the space in a timely manner upon closing. It is the responsibility of every end user to monitor the time while in the space. A warning will be given 10 to 15 minutes prior to closing. At this time, end users should be cleaning up and exiting the space. End users should not wait until the closing announcement to clean up. PIs are under no obligation to stay after closing to accompany end users who need to finish their projects.
-* *2.7.2.* End users are only ever allowed in the space after hours if they are being supervised by an active PI. Please reference section 4.3.2. for specific rules regarding PI guests.
-* *2.7.3.* End users soliciting, bribing, or pressuring PIs, MPIs, or Staff members for access to or use of the space outside official open hours is strictly prohibited. This restriction applies to unsolicited requests from individuals who do not already have an established relationship with the PI, MPI, or Staff member, including incoming PIs who have not yet completed required trainings, and does not supersede section 4.3.2.
+* *2.7.2.* End users are only ever allowed in the space after hours if they are being supervised by an active PI. Please reference Section 4.3.2. for specific rules regarding PI guests.
+* *2.7.3.* End users soliciting, bribing, or pressuring PIs, MPIs, or Staff members for access to or use of the space outside official open hours is strictly prohibited. This restriction applies to unsolicited requests from individuals who do not already have an established relationship with the PI, MPI, or Staff member, including incoming PIs who have not yet completed required trainings, and does not supersede Section 4.3.2.
 * *2.7.4.* End users must clean up any mess left prior to exiting the space. Disciplinary action may be taken, at the discretion of Staff, if a mess is not cleaned up prior to closing.
 * *2.7.5.* Certain events at the Hive, such as workshops, take place after hours and are open to end users who RSVP for the specific event. End users in the space after hours who are not participating in the event and are not supervised by a PI are in violation of the policies of this section.
 
@@ -222,7 +222,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 ** *3.4.1.3.* Hearing protection is available and recommended for powered machinery.
 ** *3.4.1.4.* Closed toed shoes are required to be worn in the machine shop.
 ** *3.4.1.5.* Long hair must be tied back. Hair ties are available in the machine shop and at the front desk.
-** *3.4.1.6.* There must always be more than 1 person in the machine shop while any equipment is being used. This “Buddy System” is to ensure another person (with or without training) is present to assist in the event of injury or an emergency, and is especially important after-hours. Violations of this policy will result in a Level 3 infraction without prior Staff approval.
+** *3.4.1.6.* There must always be more than 1 person in the machine shop while any equipment is being used. This “Buddy System” is to ensure another person (with or without training) is present to assist in the event of injury or an emergency, and is especially important after-hours. Violations of this policy will result in a level 2 infraction without prior Staff approval.
 ** *3.4.1.7.* Only PIs specifically trained in the machine shop are allowed to supervise it, including after hours.
 ** *3.4.1.8.* Any activities utilizing tools found in the machine shop must be done in the machine shop unless prior authorization is granted from Staff. Bringing one's own equivalent tools does not allow one to circumvent this policy.
 * *3.4.2.* Machine Policies
@@ -277,7 +277,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 ** *4.2.1.1.* Headphones and earbuds must not be worn while on shift due to safety reasons and making PIs seem unavailable to help.
 ** *4.2.1.2.* The appropriate armband must be worn while on shift. PIs have an orange/red armband, and MPIs have a pink armband.
 ** *4.2.1.3.* Homework and personal device usage are permitted during your shift, provided there are no active end-users in the space being monitored. Exceptions to this policy are listed for specific technical areas below.
-** *4.2.1.4.* PIs are expected to be on time for their shifts. For more details about pre-shift responsibilities, see Section 4.4 "Shift Scheduling and Absences".
+** *4.2.1.4.* PIs are expected to be on time for their shifts. For more details about pre-shift responsibilities see Section 4.4 "Shift Scheduling and Absences".
 ** *4.2.1.5.* PIs on shift must remain in their assigned room (except for manning an unstaffed room, brief lapses due to a bathroom break, helping someone, etc.). PIs are required to follow their assigned PI shift role. For instance, a PI signed up for a 3D printing shift should not be in Laser Cutting or at the Front Desk unless it was expressly requested by Staff or an MPI.
 * *4.2.2.* Front Desk PI Responsibilities
 ** *4.2.2.1.* PIs may have their work out even when end users are on the 2nd floor so long as they remain attentive to each end user that approaches the desk and to the 2nd floor as a whole.
@@ -315,7 +315,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 ** *4.2.5.3.* PIs should follow all print queuing guidelines communicated in training and posted throughout the circular room.
 ** *4.2.5.4.* PIs should remove any finished prints from the printers in the circular room. Gloves must be worn when removing prints, and a plastic scraper may be used on Bambu Labs printers.
 ** *4.2.5.5.* If a printer has finished but the part is missing, PIs should mark the print as failed.
-** *4.2.5.6.* If a printer malfunctions or gives an error, PIs should attempt to fix it or contact and MPI or Staff for assistance.
+** *4.2.5.6.* If a printer malfunctions or gives an error, PIs should attempt to fix it or contact an MPI or Staff for assistance.
 ** *4.2.5.7.* PIs should ensure all printers are clear of loose filament debris (especially under the print beds) and should vacuum and sweep them as necessary.
 ** *4.2.5.8.* PIs should ensure the floors of room are always clean, especially keeping an eye out for loose filament pieces, paper towels, etc. They should sweep and vacuum as necessary.
 ** *4.2.5.9.* At least once per shift, PIs should check the trash cans to see if they need to be emptied and if so empty them.
@@ -335,17 +335,12 @@ We aim to help students gain hands on skills and technical knowledge by providin
 ** *4.2.7.2.* PIs should consistently keep the floor and workbenches clear of any debris (scraps, sawdust, etc.) and sweep/vacuum as necessary.
 ** *4.2.7.3.* PIs should ensure all unused tools and scraps are put away in the appropriate places.
 ** *4.2.7.4.* PIs should ensure all end users, other PIs, tour groups, and anyone else in the machine shop are wearing safety glasses while any equipment is in use (passive and powered equipment). This includes over prescription eyewear. The only time safety glasses are not required are when certain manual tools such as screwdrivers, wrenches, hand sandpaper, and the like are in use. This is not on a per-user basis. If one person in the shop is using a safety-glasses required tool, everyone in the shop must be wearing safety glasses.
-* *4.2.8.* Floating PI Responsibilities
-** *4.2.8.1.* PIs should spend the first 10 minutes of their shift making rounds around the space to see if any spots need to be filled.
-** *4.2.8.2.* PIs should continue to monitor the slack to see if any spaces need to be filled throughout their shift.
-** *4.2.8.3.* If not actively filling a spot in another technical area, PIs should be assisting the front desk and benchtop PIs with their duties. They may follow the front desk homework guidelines outlined in section 4.2.2.1.
-** *4.2.8.4.* It is acceptable for a PI to sit at the front desk or lectern when not making rounds, but they should not be there exclusively for their entire shift.
-** *4.2.8.5.* Despite policy 4.2.8.3, being a floating PI is not an excuse for one to only do homework during their shift. They are still responsible for monitoring the space.
+
  
 === 4.3 PI Privileges and After-Hours Use
 
-* *4.3.1.* PIs are strictly prohibited from lending their BuzzCard to anyone else, including another PI, for the purposes of getting into the space or using equipment in the space. Violation of this policy will result in a Level 3 infraction and disciplinary action up to being terminated as a PI.
-* *4.3.2.* PIs are strictly prohibited from letting non-PIs into the space after hours without actively supervising them while being in the space. Another PI being in the space does not absolve one from violating this policy. PIs are allowed to have a maximum of 5 guests in the space after hours. Guests must always be under the PI's supervision. These guests must sign into HUMS. Supervision means being on the same floor as all guests and having a line of sight to them at all times. Guests are prohibited from restricted areas without the supervision of a PI (see Section 2.6.1.). PIs are also responsible for ensuring their guests follow all policies of end users. PIs are ultimately responsible for the conduct of their guests, including any policy violations. Taking a short bathroom or water break is allowed without violating this policy, so long as the PI does not leave the building and so long as guests are not actively using any machinery during the break. Violation of this policy will result in a Level 3 infraction and disciplinary action up to being terminated as a PI.
+* *4.3.1.* PIs are strictly prohibited from lending their BuzzCard to anyone else, including another PI, for the purposes of getting into the space or using equipment in the space. Violation of this policy will result in a Level 2 infraction and disciplinary action up to being terminated as a PI.
+* *4.3.2.* PIs are strictly prohibited from letting non-PIs into the space after hours without actively supervising them while being in the space. Another PI being in the space does not absolve one from violating this policy. PIs are allowed to have a maximum of 5 guests in the space after hours. Guests must always be under the PI's supervision. These guests must sign into HUMS. Supervision means being on the same floor as all guests and having a line of sight to them at all times. Guests are prohibited from restricted areas without the supervision of a PI (see Section 2.5.1.). PIs are also responsible for ensuring their guests follow all policies of end users. PIs are ultimately responsible for the conduct of their guests, including any policy violations. Taking a short bathroom or water break is allowed without violating this policy, so long as the PI does not leave the building and so long as guests are not actively using any machinery during the break. Violation of this policy will result in a level 2 infraction and disciplinary action up to being terminated as a PI.
 * *4.3.3.* PIs may not host meetings for other student organizations in the space.
 * *4.3.4.* PIs may be allowed to take certain items outside of the space with Staff permission. Please check with Staff for our current PI checkout policies.
 * *4.3.5.* PIs are allowed to queue 3D prints at the front of the queues after hours so long as all of the following are true: an active print is not being stopped, the print will finish before The Hive opens, another PIs print is not being passed in the queue, all time and material limits are being followed, all proper print procedures are being followed.
