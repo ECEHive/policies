@@ -5,13 +5,13 @@
 toc::[]
 
 == Purpose
-This document serves as the official collection of the rules and policies of the Interdisciplinary Design Commons (herein referred to as “The IDC,” “The Hive Makerspace,” “The Hive,” or simply, “the space”) to be adhered to by all who enter the space. These apply in addition to Georgia Tech’s official legal policies, campus use policies, and student code of conduct. This document may be modified at any time at the discretion of The Hive Staff and The Hive Executive Board.
+This document serves as the official collection of the rules and policies of the Interdisciplinary Design Commons (herein referred to as "The IDC," "The Hive Makerspace," "The Hive," or simply, "the space") to be adhered to by all who enter the space. These apply in addition to Georgia Tech's official legal policies, campus use policies, and student code of conduct. This document may be modified at any time at the discretion of The Hive Staff and The Hive Executive Board.
 
 == Mission
-Our mission is to cultivate an interdisciplinary, collaborative culture of student makers and designers who are passionate about learning new skills, helping other students, and above all, bringing their ideas to reality. By providing an easily accessible engineering space on Georgia Tech’s campus and staffing it with trained student instructors, we create an area where students can learn from other students, developing both technical skills and ideas as well as personal connections. Though the Hive was formed under the ECE department, we are not limited to serve only ECE students. Our goal is to provide a space where any Georgia Tech student – regardless of technical knowledge, skill, major, year or background – can walk in, feel welcome, and make their imagination reality.
+Our mission is to cultivate an interdisciplinary, collaborative culture of student makers and designers who are passionate about learning new skills, helping other students, and above all, bringing their ideas to reality. By providing an easily accessible engineering space on Georgia Tech's campus and staffing it with trained student instructors, we create an area where students can learn from other students, developing both technical skills and ideas as well as personal connections. Though the Hive was formed under the ECE department, we are not limited to serve only ECE students. Our goal is to provide a space where any Georgia Tech student - regardless of technical knowledge, skill, major, year or background - can walk in, feel welcome, and make their imagination reality.
 
 == Values and Principles
-We aim to help students gain hands on skills and technical knowledge by providing a comfortable, low-pressure learning environment in which any student has room to grow and explore. We believe that every student should have the equipment to create anything they want to create. We believe that diversity – in all forms – makes us stronger. We believe in students helping students to foster collaboration, promote new ideas, and learn technical skills that may not be taught in class. The Hive is a staunch advocate of “maker culture”, facilitating growth and inventive ideas, and providing the tools that our students need to achieve their dreams of creating the next big thing. We are passionate about sharing knowledge, helping others, and leading technological advancement in an era of rapid prototyping. We are innovators, cultivators, and achievers.
+We aim to help students gain hands on skills and technical knowledge by providing a comfortable, low-pressure learning environment in which any student has room to grow and explore. We believe that every student should have the equipment to create anything they want to create. We believe that diversity - in all forms - makes us stronger. We believe in students helping students to foster collaboration, promote new ideas, and learn technical skills that may not be taught in class. The Hive is a staunch advocate of "maker culture", facilitating growth and inventive ideas, and providing the tools that our students need to achieve their dreams of creating the next big thing. We are passionate about sharing knowledge, helping others, and leading technological advancement in an era of rapid prototyping. We are innovators, cultivators, and achievers.
 
 == 1. Governing Policies
 
@@ -222,9 +222,10 @@ We aim to help students gain hands on skills and technical knowledge by providin
 ** *3.4.1.3.* Hearing protection is available and recommended for powered machinery.
 ** *3.4.1.4.* Closed toed shoes are required to be worn in the machine shop.
 ** *3.4.1.5.* Long hair must be tied back. Hair ties are available in the machine shop and at the front desk.
-** *3.4.1.6.* There must always be more than 1 person in the machine shop while any equipment is being used. This “Buddy System” is to ensure another person (with or without training) is present to assist in the event of injury or an emergency, and is especially important after-hours. Violations of this policy will result in a level 2 infraction without prior Staff approval.
-** *3.4.1.7.* Only PIs specifically trained in the machine shop are allowed to supervise it, including after hours.
-** *3.4.1.8.* Any activities utilizing tools found in the machine shop must be done in the machine shop unless prior authorization is granted from Staff. Bringing one's own equivalent tools does not allow one to circumvent this policy.
+** *3.4.1.6.* There must always be more than 1 person in the machine shop while any equipment is being used. This "Buddy System" is to ensure another person (with or without training) is present to assist in the event of injury or an emergency, and is especially important after-hours. 
+** *3.4.1.7.* The machine shop Buddy System is implemented through a HUMS lockout that requires two users to tap their Buzz Cards. The primary user must have access to the tool through HUMS, and the secondary user may be any user. One of the two people must be the tool user. Bypassing this system will result in a Level 2 infraction.
+** *3.4.1.8.* Only PIs specifically trained in the machine shop are allowed to supervise it, including after hours.
+** *3.4.1.9.* Any activities utilizing tools found in the machine shop must be done in the machine shop unless prior authorization is granted from Staff. Bringing one's own equivalent tools does not allow one to circumvent this policy.
 * *3.4.2.* Machine Policies
 ** *3.4.2.1.* Individuals may not use advanced tools, including but not limited to, the mill, ShopBot, or lathe, unless specifically trained by The Hive to do so.
 ** *3.4.2.2.* Individuals must obey material and thickness restrictions posted on each tool.
@@ -290,10 +291,10 @@ We aim to help students gain hands on skills and technical knowledge by providin
 ** *4.2.2.8.* When a key is returned, PIs should check the station to ensure it is clear of any cables, wires, tools, trash, etc.
 ** *4.2.2.9.* At least once per shift, PIs should check the 2nd floor trash cans to see if they need to be emptied. If so, they should be emptied.
 ** *4.2.2.10.* The entire front desk area must be kept organized. No tools or other materials should be left out of their proper storage place.
-** *4.2.2.11.* PIs with an opening shift should unlock the front doors and flip the sign to “open” at opening time.
+** *4.2.2.11.* PIs with an opening shift should unlock the front doors and flip the sign to "open" at opening time.
 ** *4.2.2.12.* PIs with Closing Shifts must:
 *** Politely announce over the PA system the closing of The Hive 15 minutes prior to and at closing time. For example, "The Hive is closing in 15 minutes. If you are not a PI or not with a PI, please start to clean your work area and return checked-out items to the front desk. We will open again tomorrow at 10am."
-*** Lock the front doors and flip the open sign to “closed.”
+*** Lock the front doors and flip the open sign to "closed."
 *** Ensure all those remaining in the space are PIs or accompanied by a PI. All others should be asked to leave. If end users are unwilling to leave, PIs should contact Staff for assistance. If Staff is present and on-shift, they may handle clearing the space of end-users and inform closing PIs that they may end their shifts without completing this task.
 ** *4.2.2.13.* Front Desk PIs should make consistent rounds throughout all benchtops, ensuring the following:
 *** All who are soldering are wearing safety glasses, even on top of prescription glasses.
