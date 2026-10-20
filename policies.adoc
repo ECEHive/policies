@@ -222,7 +222,7 @@ We aim to help students gain hands on skills and technical knowledge by providin
 ** *3.4.1.3.* Hearing protection is available and recommended for powered machinery.
 ** *3.4.1.4.* Closed toed shoes are required to be worn in the machine shop.
 ** *3.4.1.5.* Long hair must be tied back. Hair ties are available in the machine shop and at the front desk.
-** *3.4.1.6.* There must always be more than 1 person in the machine shop while any equipment is being used. This "Buddy System" is to ensure another person (with or without training) is present to assist in the event of injury or an emergency, and is especially important after-hours. 
+** *3.4.1.6.* There must always be more than 1 person in the machine shop while any equipment is being used. This "Buddy System" is to ensure another person (with or without training) is present to assist in the event of injury or an emergency, and applies at all times including after-hours. 
 ** *3.4.1.7.* The machine shop Buddy System is implemented through a HUMS lockout that requires two users to tap their Buzz Cards. The primary user must have access to the tool through HUMS, and the secondary user may be any user. One of the two people must be the tool user. Bypassing this system will result in a Level 2 infraction.
 ** *3.4.1.8.* Only PIs specifically trained in the machine shop are allowed to supervise it, including after hours.
 ** *3.4.1.9.* Any activities utilizing tools found in the machine shop must be done in the machine shop unless prior authorization is granted from Staff. Bringing one's own equivalent tools does not allow one to circumvent this policy.
