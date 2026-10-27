@@ -40,6 +40,24 @@ Never make changes directly to the `main` branch. Instead, create a new branch f
 5. Fill out the PR description explaining *why* you are proposing this policy change.
 6. Click **Create pull request** one last time to submit it for review!
 
-## What Happens Next?
+---
 
-Once your PR is submitted, Staff and Exec will review the proposed changes. They may leave comments, ask for clarification, or request further edits before merging the changes into the official document.
+## Exporting to HTML
+
+The `policies.adoc` source can be converted to a standalone HTML snippet suitable for embedding on the website.
+
+### Prerequisites
+
+[Node.js](https://nodejs.org/) and [PNPM](https://pnpm.io/) must be installed. Then install dependencies once:
+
+```bash
+pnpm install
+```
+
+### Run the Export
+
+```bash
+pnpm run export
+```
+
+This runs `export.ts` via `tsx` and writes the output to `export.html` in the root of the repository.
