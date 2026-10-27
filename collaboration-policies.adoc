@@ -1,0 +1,27 @@
+= The Hive Makerspace Policies Regarding Collaborations with On-Campus Organizations 
+
+Updated October 27th, 2026 
+
+The Hive Makerspace is an organization dedicated to improving the Georgia Tech student experience by providing a place to create hands-on projects, training peer instructors to assist students in using our various machinery and professional tools, and hosting workshops to teach topics from basic electronics to how to make a DIY smart watch.  
+
+To better serve the Georgia Tech community, the Hive is open to collaborating with other on-campus organizations on events such as workshops or info sessions on professional topics, given that proposed collaboration events fall within the following guidelines:  
+
+. The Hive’s objective is to serve the entire student population. Therefore, all collaboration events must be open to the entirety of the student population. We do not allow other clubs or organizations to host private events in our Makerspace. To prevent this, members of the organization we are collaborating with may not fill up more than 50% of the available slots for the event, and we have the authority to remove members from the signup list at our discretion to correct for excess sign ups by organization members. Organizations will also not be given priority access to sign-ups to ensure equal opportunities for the entire student population to sign up. 
+
+. The Hive shall oversee the entire RSVP process. Organizations are not allowed to post their own signups for the event on Engage. We ultimately control the list of attendees for all events held in the space and we may revise the attendee list if we feel the signup process is not adequately catered to all Georgia Tech students.   
+
+. Workshop collaboration requests must be submitted at least one month prior to the proposed date and include a working prototype/demo and any presentation materials for the event (including slides). This ensures there is time to modify the workshop (including its materials, presentation, etc.) as necessary, order materials, determine event logistics, conduct a dry run of the workshop, and obtain approval and staffing for the event. Specifics about the logistics, including material ordering and scopes of responsibilities, will be discussed after an initial request is accepted.  
+
+. Workshop requests must be submitted the same semester as the event is to occur, and the proposed date must be during a day when the Hive is open. The Hive does not host workshops in the summer semester.
+
+. The Hive has the final say over the logistics of the event, including but not limited to, the date it occurs, the time of day the event occurs, and the maximum number of attendees. 
+
+. Collaborating organizations, regardless of event type, must provide volunteers from their organization to help run the event. These volunteers must be knowledgeable about the proposed event beforehand and will be expected to help and answer questions from participants during the event. Volunteers from external organizations will not be expected to have a full understanding of all makerspace policies. The Hive will also provide at least one lead volunteer or staff member who will oversee coordinating the dry run and be present and assisting during the event. Additional volunteers can be arranged as deemed necessary. The scopes of responsibilities of the Hive volunteers and the collaborating organization’s volunteers will be discussed during the planning phase before an event is finalized. 
+
+. Before releasing the event to the public for signup, The Hive requires a meeting with the collaborating organization to confirm all preliminary setup has been completed. This meeting is to check items such as making sure all necessary materials have arrived, a presentation for the event has been finalized, etc. 
+
+. Collaborating organizations must seek additional approval for any event beyond their first each semester. This ensures that all organizations have an opportunity to work with The Hive every semester. 
+
+. All collaboration events must be approved by the IDC director. 
+
+Our executive board runs weekly meetings, so if our organization has not responded to your event proposal within a week, feel free to email us again at hive@ece.gatech.edu.  
