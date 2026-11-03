@@ -12,7 +12,7 @@ To better serve the Georgia Tech community, the Hive is open to collaborating wi
 
 . Workshop collaboration requests must be submitted at least one month prior to the proposed date and include a working prototype/demo and any presentation materials for the event (including slides). This ensures there is time to modify the workshop (including its materials, presentation, etc.) as necessary, order materials, determine event logistics, conduct a dry run of the workshop, and obtain approval and staffing for the event. Specifics about the logistics, including material ordering and scopes of responsibilities, will be discussed after an initial request is accepted.  
 
-. Workshop requests must be submitted the same semester as the event is to occur, and the proposed date must be during a day when the Hive is open. The Hive does not host workshops in the summer semester.
+. Workshop requests must be submitted the same semester as the event is to occur, and the proposed date must be during a day when the Hive is open. The Hive does not host collaborative workshops in the summer semester.
 
 . The Hive has the final say over the logistics of the event, including but not limited to, the date it occurs, the time of day the event occurs, and the maximum number of attendees. 
 
